@@ -1,0 +1,54 @@
+# Brownian simulation of two boomerang colloidal particles
+# attached by an harmonic spring. Length, time and mass are
+# given in units of microns, seconds and miligrams.
+
+# Select scheme to integrate Brownian equations
+scheme                                   deterministic_adams_bashforth
+
+# Select implementation to compute M and M*f
+# We recommend to use the C++ implementation which is faster,
+# see documentation
+mobility_blobs_implementation            C++
+mobility_vector_prod_implementation      numba
+# domain					 no_wall
+
+# Select implementation to compute the blobs-blob interactions
+blob_blob_force_implementation 		 tree_numba          
+
+# Set time step, number of steps and save frequency
+dt                                       0.01
+n_steps                                  1000
+n_save                                   1
+initial_step				 0
+
+# Solver params
+solver_tolerance                         1.0e-6
+
+# Set fluid viscosity (eta), gravity*blob_mass (g) and blob radius
+eta                                      1.0
+g                                        0.216
+blob_radius                              0.109125
+
+# Stochastic parameters
+kT                                       0.0041419464
+
+# RFD parameters
+rf_delta                                 1.0e-6
+
+# Set parameters for the blob-blob interation
+repulsion_strength                       0.095713728509
+debye_length 				 0.109125                            
+
+# Set interaction with the wall
+repulsion_strength_wall                  0.095713728509
+debye_length_wall                        0.109125
+
+# Set output name
+output_name                              data/run_sedimentation
+save_clones				 one_file
+
+
+# Load rigid bodies configuration, provide
+# shell_N_2562_Rg_0_9888_Rh_1s
+# structure cube_N_27_Rh_0.5.vertex   cubic3.clones
+structure cube_N_125_Rh_1.vertex   colloids_18.clones

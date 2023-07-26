@@ -1,0 +1,1156 @@
+
+Currently Loaded Modules:
+  1) GCCcore/8.3.0                    10) OpenMPI/3.1.4-GCC-8.3.0
+  2) zlib/1.2.11-GCCcore-8.3.0        11) ncurses/6.1-GCCcore-8.3.0
+  3) binutils/2.32-GCCcore-8.3.0      12) bzip2/1.0.8-GCCcore-8.3.0
+  4) GCC/8.3.0                        13) cURL/7.66.0-GCCcore-8.3.0
+  5) numactl/2.0.12-GCCcore-8.3.0     14) CMake/3.15.3-GCCcore-8.3.0
+  6) XZ/5.2.4-GCCcore-8.3.0           15) iccifort/2019.5.281
+  7) libxml2/2.9.9-GCCcore-8.3.0      16) impi/2018.5.288-iccifort-2019.5.281
+  8) libpciaccess/0.14-GCCcore-8.3.0  17) iimpi/2019b
+  9) hwloc/1.11.12-GCCcore-8.3.0      18) imkl/2019.5.281-iimpi-2019b
+
+ 
+
+# packages in environment at /workspace/scratch/users/dkundu/miniconda3/envs/mpi:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             5.1                       1_gnu  
+appdirs                   1.4.4              pyhd3eb1b0_0  
+blas                      1.0                         mkl  
+boost                     1.73.0          py38h06a4308_12  
+brotli                    1.0.9                h5eee18b_7  
+brotli-bin                1.0.9                h5eee18b_7  
+brotlipy                  0.7.0           py38h27cfd23_1003  
+bzip2                     1.0.8                h7b6447c_0  
+ca-certificates           2023.05.30           h06a4308_0  
+certifi                   2023.5.7         py38h06a4308_0  
+cffi                      1.15.1           py38h5eee18b_3  
+charset-normalizer        2.0.4              pyhd3eb1b0_0  
+contourpy                 1.0.5            py38hdb19cb5_0  
+cryptography              39.0.1           py38h9ce1e76_2  
+cycler                    0.11.0             pyhd3eb1b0_0  
+dbus                      1.13.18              hb2f20db_0  
+eigen                     3.3.7                hd09550d_1  
+expat                     2.4.9                h6a678d5_0  
+fontconfig                2.14.1               h52c9d5c_1  
+fonttools                 4.25.0             pyhd3eb1b0_0  
+freetype                  2.12.1               h4a9f257_0  
+giflib                    5.2.1                h5eee18b_3  
+glib                      2.69.1               he621ea3_2  
+gst-plugins-base          1.14.1               h6a678d5_1  
+gstreamer                 1.14.1               h5eee18b_1  
+icu                       58.2                 he6710b0_3  
+idna                      3.4              py38h06a4308_0  
+importlib-metadata        6.0.0            py38h06a4308_0  
+importlib_metadata        6.0.0                hd3eb1b0_0  
+importlib_resources       5.2.0              pyhd3eb1b0_1  
+intel-openmp              2023.1.0         hdb19cb5_46305  
+jpeg                      9e                   h5eee18b_1  
+kiwisolver                1.4.4            py38h6a678d5_0  
+krb5                      1.20.1               h143b758_1  
+lcms2                     2.12                 h3be6417_0  
+ld_impl_linux-64          2.38                 h1181459_1  
+lerc                      3.0                  h295c915_0  
+libboost                  1.73.0              h28710b8_12  
+libbrotlicommon           1.0.9                h5eee18b_7  
+libbrotlidec              1.0.9                h5eee18b_7  
+libbrotlienc              1.0.9                h5eee18b_7  
+libclang                  10.0.1          default_hb85057a_2  
+libdeflate                1.17                 h5eee18b_0  
+libedit                   3.1.20221030         h5eee18b_0  
+libevent                  2.1.12               hdbd6064_1  
+libffi                    3.4.4                h6a678d5_0  
+libgcc-ng                 11.2.0               h1234567_1  
+libgfortran-ng            11.2.0               h00389a5_1  
+libgfortran5              11.2.0               h1234567_1  
+libgomp                   11.2.0               h1234567_1  
+libllvm10                 10.0.1               hbcb73fb_5  
+libllvm14                 14.0.6               hdb19cb5_3  
+libpng                    1.6.39               h5eee18b_0  
+libpq                     12.15                hdbd6064_1  
+libstdcxx-ng              11.2.0               h1234567_1  
+libtiff                   4.5.0                h6a678d5_2  
+libuuid                   1.41.5               h5eee18b_0  
+libwebp                   1.2.4                h11a3e52_1  
+libwebp-base              1.2.4                h5eee18b_1  
+libxcb                    1.15                 h7f8727e_0  
+libxkbcommon              1.0.1                hfa300c1_0  
+libxml2                   2.9.14               h74e7548_0  
+libxslt                   1.1.35               h4e12654_0  
+llvmlite                  0.40.0           py38he621ea3_0  
+lz4-c                     1.9.4                h6a678d5_0  
+matplotlib                3.7.1            py38h06a4308_1  
+matplotlib-base           3.7.1            py38h417a72b_1  
+mkl                       2023.1.0         h6d00ec8_46342  
+mkl-service               2.4.0            py38h5eee18b_1  
+mkl_fft                   1.3.6            py38h417a72b_1  
+mkl_random                1.2.2            py38h417a72b_1  
+mpi4py                    3.1.4                    pypi_0    pypi
+munkres                   1.1.4                      py_0  
+ncurses                   6.4                  h6a678d5_0  
+nspr                      4.35                 h6a678d5_0  
+nss                       3.89.1               h6a678d5_0  
+numba                     0.57.0           py38h1128e8f_0  
+numexpr                   2.8.4            py38hc78ab66_1  
+numpy                     1.24.3           py38hf6e8229_1  
+numpy-base                1.24.3           py38h060ed82_1  
+openssl                   3.0.9                h7f8727e_0  
+packaging                 23.0             py38h06a4308_0  
+pcre                      8.45                 h295c915_0  
+pillow                    9.4.0            py38h6a678d5_0  
+pip                       23.1.2           py38h06a4308_0  
+ply                       3.11                     py38_0  
+pooch                     1.4.0              pyhd3eb1b0_0  
+py-boost                  1.73.0          py38h51133e4_12  
+pybind11                  2.10.4           py38hdb19cb5_0  
+pybind11-global           2.10.4           py38hdb19cb5_0  
+pycparser                 2.21               pyhd3eb1b0_0  
+pyopenssl                 23.0.0           py38h06a4308_0  
+pyparsing                 3.0.9            py38h06a4308_0  
+pyqt                      5.15.7           py38h6a678d5_1  
+pyqt5-sip                 12.11.0          py38h6a678d5_1  
+pysocks                   1.7.1            py38h06a4308_0  
+python                    3.8.17               h955ad1f_0  
+python-dateutil           2.8.2              pyhd3eb1b0_0  
+qt-main                   5.15.2               h327a75a_7  
+qt-webengine              5.15.9               hd2b0992_4  
+qtwebkit                  5.212                h4eab89a_4  
+readline                  8.2                  h5eee18b_0  
+requests                  2.29.0           py38h06a4308_0  
+scipy                     1.10.1           py38hf6e8229_1  
+setuptools                67.8.0           py38h06a4308_0  
+sip                       6.6.2            py38h6a678d5_0  
+six                       1.16.0             pyhd3eb1b0_1  
+sqlite                    3.41.2               h5eee18b_0  
+tbb                       2021.8.0             hdb19cb5_0  
+tk                        8.6.12               h1ccaba5_0  
+toml                      0.10.2             pyhd3eb1b0_0  
+tornado                   6.2              py38h5eee18b_0  
+urllib3                   1.26.16          py38h06a4308_0  
+wheel                     0.38.4           py38h06a4308_0  
+xz                        5.4.2                h5eee18b_0  
+zipp                      3.11.0           py38h06a4308_0  
+zlib                      1.2.13               h5eee18b_0  
+zstd                      1.5.5                hc292b87_0  
+/workspace/scratch/users/dkundu/miniconda3/envs/mpi/bin/python
+Python 3.8.17
+/workspace/scratch/users/fbalboa/sfw/FMM/pvfmm-lib-gnu/share/pvfmm
+ 
+Error: failed to import settings module (No module named 'multi_bodies_functions')
+Error: failed to import settings module (No module named 'multi_bodies_functions')
+Error: failed to import settings module (No module named 'multi_bodies_functions')
+Error: failed to import settings module (No module named 'general_application_utils')
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-smng5dlk because the default path (/home/dkundu/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+searching functions in path  ../
+searching functions in path  ../../
+searching functions in path  ../../../
+searching functions in path  ../../../../
+libboost_python310.so.1.73.0: cannot open shared object file: No such file or directory
+Creating structures =  colloids_18.clones
+Integrator =  deterministic_adams_bashforth , step =  0 , invalid configurations 0 , wallclock time =  0.0012116432189941406
+Integrator =  deterministic_adams_bashforth , step =  1 , invalid configurations 0 , wallclock time =  7.910019874572754
+Integrator =  deterministic_adams_bashforth , step =  2 , invalid configurations 0 , wallclock time =  8.407018423080444
+Integrator =  deterministic_adams_bashforth , step =  3 , invalid configurations 0 , wallclock time =  8.871508598327637
+Integrator =  deterministic_adams_bashforth , step =  4 , invalid configurations 0 , wallclock time =  9.344635248184204
+Integrator =  deterministic_adams_bashforth , step =  5 , invalid configurations 0 , wallclock time =  9.815769910812378
+Integrator =  deterministic_adams_bashforth , step =  6 , invalid configurations 0 , wallclock time =  10.305974960327148
+Integrator =  deterministic_adams_bashforth , step =  7 , invalid configurations 0 , wallclock time =  10.780731439590454
+Integrator =  deterministic_adams_bashforth , step =  8 , invalid configurations 0 , wallclock time =  11.316784858703613
+Integrator =  deterministic_adams_bashforth , step =  9 , invalid configurations 0 , wallclock time =  11.85602855682373
+Integrator =  deterministic_adams_bashforth , step =  10 , invalid configurations 0 , wallclock time =  12.347777843475342
+Integrator =  deterministic_adams_bashforth , step =  11 , invalid configurations 0 , wallclock time =  12.8419930934906
+Integrator =  deterministic_adams_bashforth , step =  12 , invalid configurations 0 , wallclock time =  13.312133550643921
+Integrator =  deterministic_adams_bashforth , step =  13 , invalid configurations 0 , wallclock time =  13.774574518203735
+Integrator =  deterministic_adams_bashforth , step =  14 , invalid configurations 0 , wallclock time =  14.270165205001831
+Integrator =  deterministic_adams_bashforth , step =  15 , invalid configurations 0 , wallclock time =  14.735107183456421
+Integrator =  deterministic_adams_bashforth , step =  16 , invalid configurations 0 , wallclock time =  15.270127296447754
+Integrator =  deterministic_adams_bashforth , step =  17 , invalid configurations 0 , wallclock time =  15.771864891052246
+Integrator =  deterministic_adams_bashforth , step =  18 , invalid configurations 0 , wallclock time =  16.19961714744568
+Integrator =  deterministic_adams_bashforth , step =  19 , invalid configurations 0 , wallclock time =  16.694241762161255
+Integrator =  deterministic_adams_bashforth , step =  20 , invalid configurations 0 , wallclock time =  17.23850393295288
+Integrator =  deterministic_adams_bashforth , step =  21 , invalid configurations 0 , wallclock time =  17.771438121795654
+Integrator =  deterministic_adams_bashforth , step =  22 , invalid configurations 0 , wallclock time =  18.242861032485962
+Integrator =  deterministic_adams_bashforth , step =  23 , invalid configurations 0 , wallclock time =  18.74258542060852
+Integrator =  deterministic_adams_bashforth , step =  24 , invalid configurations 0 , wallclock time =  19.191667079925537
+Integrator =  deterministic_adams_bashforth , step =  25 , invalid configurations 0 , wallclock time =  19.726192235946655
+Integrator =  deterministic_adams_bashforth , step =  26 , invalid configurations 0 , wallclock time =  20.29924464225769
+Integrator =  deterministic_adams_bashforth , step =  27 , invalid configurations 0 , wallclock time =  20.795312643051147
+Integrator =  deterministic_adams_bashforth , step =  28 , invalid configurations 0 , wallclock time =  21.28266716003418
+Integrator =  deterministic_adams_bashforth , step =  29 , invalid configurations 0 , wallclock time =  21.72522807121277
+Integrator =  deterministic_adams_bashforth , step =  30 , invalid configurations 0 , wallclock time =  22.240731477737427
+Integrator =  deterministic_adams_bashforth , step =  31 , invalid configurations 0 , wallclock time =  22.68540072441101
+Integrator =  deterministic_adams_bashforth , step =  32 , invalid configurations 0 , wallclock time =  23.114816904067993
+Integrator =  deterministic_adams_bashforth , step =  33 , invalid configurations 0 , wallclock time =  23.545883893966675
+Integrator =  deterministic_adams_bashforth , step =  34 , invalid configurations 0 , wallclock time =  23.98158860206604
+Integrator =  deterministic_adams_bashforth , step =  35 , invalid configurations 0 , wallclock time =  24.41219186782837
+Integrator =  deterministic_adams_bashforth , step =  36 , invalid configurations 0 , wallclock time =  24.84443497657776
+Integrator =  deterministic_adams_bashforth , step =  37 , invalid configurations 0 , wallclock time =  25.276572704315186
+Integrator =  deterministic_adams_bashforth , step =  38 , invalid configurations 0 , wallclock time =  25.71072745323181
+Integrator =  deterministic_adams_bashforth , step =  39 , invalid configurations 0 , wallclock time =  26.140044689178467
+Integrator =  deterministic_adams_bashforth , step =  40 , invalid configurations 0 , wallclock time =  26.56676936149597
+Integrator =  deterministic_adams_bashforth , step =  41 , invalid configurations 0 , wallclock time =  27.000234365463257
+Integrator =  deterministic_adams_bashforth , step =  42 , invalid configurations 0 , wallclock time =  27.436349868774414
+Integrator =  deterministic_adams_bashforth , step =  43 , invalid configurations 0 , wallclock time =  27.866933822631836
+Integrator =  deterministic_adams_bashforth , step =  44 , invalid configurations 0 , wallclock time =  28.29756236076355
+Integrator =  deterministic_adams_bashforth , step =  45 , invalid configurations 0 , wallclock time =  28.73316764831543
+Integrator =  deterministic_adams_bashforth , step =  46 , invalid configurations 0 , wallclock time =  29.158886432647705
+Integrator =  deterministic_adams_bashforth , step =  47 , invalid configurations 0 , wallclock time =  29.594494104385376
+Integrator =  deterministic_adams_bashforth , step =  48 , invalid configurations 0 , wallclock time =  30.025729417800903
+Integrator =  deterministic_adams_bashforth , step =  49 , invalid configurations 0 , wallclock time =  30.45786738395691
+Integrator =  deterministic_adams_bashforth , step =  50 , invalid configurations 0 , wallclock time =  30.892411947250366
+Integrator =  deterministic_adams_bashforth , step =  51 , invalid configurations 0 , wallclock time =  31.381300449371338
+Integrator =  deterministic_adams_bashforth , step =  52 , invalid configurations 0 , wallclock time =  31.878198623657227
+Integrator =  deterministic_adams_bashforth , step =  53 , invalid configurations 0 , wallclock time =  32.3328115940094
+Integrator =  deterministic_adams_bashforth , step =  54 , invalid configurations 0 , wallclock time =  32.863062620162964
+Integrator =  deterministic_adams_bashforth , step =  55 , invalid configurations 0 , wallclock time =  33.321980476379395
+Integrator =  deterministic_adams_bashforth , step =  56 , invalid configurations 0 , wallclock time =  33.81767535209656
+Integrator =  deterministic_adams_bashforth , step =  57 , invalid configurations 0 , wallclock time =  34.26636528968811
+Integrator =  deterministic_adams_bashforth , step =  58 , invalid configurations 0 , wallclock time =  34.75885367393494
+Integrator =  deterministic_adams_bashforth , step =  59 , invalid configurations 0 , wallclock time =  35.27099943161011
+Integrator =  deterministic_adams_bashforth , step =  60 , invalid configurations 0 , wallclock time =  35.73484921455383
+Integrator =  deterministic_adams_bashforth , step =  61 , invalid configurations 0 , wallclock time =  36.21012854576111
+Integrator =  deterministic_adams_bashforth , step =  62 , invalid configurations 0 , wallclock time =  36.74148941040039
+Integrator =  deterministic_adams_bashforth , step =  63 , invalid configurations 0 , wallclock time =  37.18399620056152
+Integrator =  deterministic_adams_bashforth , step =  64 , invalid configurations 0 , wallclock time =  37.66015911102295
+Integrator =  deterministic_adams_bashforth , step =  65 , invalid configurations 0 , wallclock time =  38.14047932624817
+Integrator =  deterministic_adams_bashforth , step =  66 , invalid configurations 0 , wallclock time =  38.590118646621704
+Integrator =  deterministic_adams_bashforth , step =  67 , invalid configurations 0 , wallclock time =  39.1250855922699
+Integrator =  deterministic_adams_bashforth , step =  68 , invalid configurations 0 , wallclock time =  39.614951372146606
+Integrator =  deterministic_adams_bashforth , step =  69 , invalid configurations 0 , wallclock time =  40.0310583114624
+Integrator =  deterministic_adams_bashforth , step =  70 , invalid configurations 0 , wallclock time =  40.5209321975708
+Integrator =  deterministic_adams_bashforth , step =  71 , invalid configurations 0 , wallclock time =  41.016032218933105
+Integrator =  deterministic_adams_bashforth , step =  72 , invalid configurations 0 , wallclock time =  41.48776078224182
+Integrator =  deterministic_adams_bashforth , step =  73 , invalid configurations 0 , wallclock time =  41.959819316864014
+Integrator =  deterministic_adams_bashforth , step =  74 , invalid configurations 0 , wallclock time =  42.42912983894348
+Integrator =  deterministic_adams_bashforth , step =  75 , invalid configurations 0 , wallclock time =  42.885533571243286
+Integrator =  deterministic_adams_bashforth , step =  76 , invalid configurations 0 , wallclock time =  43.31044912338257
+Integrator =  deterministic_adams_bashforth , step =  77 , invalid configurations 0 , wallclock time =  43.7471239566803
+Integrator =  deterministic_adams_bashforth , step =  78 , invalid configurations 0 , wallclock time =  44.18033218383789
+Integrator =  deterministic_adams_bashforth , step =  79 , invalid configurations 0 , wallclock time =  44.61462736129761
+Integrator =  deterministic_adams_bashforth , step =  80 , invalid configurations 0 , wallclock time =  45.046854734420776
+Integrator =  deterministic_adams_bashforth , step =  81 , invalid configurations 0 , wallclock time =  45.47972321510315
+Integrator =  deterministic_adams_bashforth , step =  82 , invalid configurations 0 , wallclock time =  45.91483950614929
+Integrator =  deterministic_adams_bashforth , step =  83 , invalid configurations 0 , wallclock time =  46.34759473800659
+Integrator =  deterministic_adams_bashforth , step =  84 , invalid configurations 0 , wallclock time =  46.7822847366333
+Integrator =  deterministic_adams_bashforth , step =  85 , invalid configurations 0 , wallclock time =  47.21755266189575
+Integrator =  deterministic_adams_bashforth , step =  86 , invalid configurations 0 , wallclock time =  47.70442819595337
+Integrator =  deterministic_adams_bashforth , step =  87 , invalid configurations 0 , wallclock time =  48.20954895019531
+Integrator =  deterministic_adams_bashforth , step =  88 , invalid configurations 0 , wallclock time =  48.732147455215454
+Integrator =  deterministic_adams_bashforth , step =  89 , invalid configurations 0 , wallclock time =  49.20404314994812
+Integrator =  deterministic_adams_bashforth , step =  90 , invalid configurations 0 , wallclock time =  49.66229486465454
+Integrator =  deterministic_adams_bashforth , step =  91 , invalid configurations 0 , wallclock time =  50.115259647369385
+Integrator =  deterministic_adams_bashforth , step =  92 , invalid configurations 0 , wallclock time =  50.77527594566345
+Integrator =  deterministic_adams_bashforth , step =  93 , invalid configurations 0 , wallclock time =  51.23399496078491
+Integrator =  deterministic_adams_bashforth , step =  94 , invalid configurations 0 , wallclock time =  51.66240310668945
+Integrator =  deterministic_adams_bashforth , step =  95 , invalid configurations 0 , wallclock time =  52.10131621360779
+Integrator =  deterministic_adams_bashforth , step =  96 , invalid configurations 0 , wallclock time =  52.6188325881958
+Integrator =  deterministic_adams_bashforth , step =  97 , invalid configurations 0 , wallclock time =  53.06770300865173
+Integrator =  deterministic_adams_bashforth , step =  98 , invalid configurations 0 , wallclock time =  53.48490333557129
+Integrator =  deterministic_adams_bashforth , step =  99 , invalid configurations 0 , wallclock time =  53.9425413608551
+Integrator =  deterministic_adams_bashforth , step =  100 , invalid configurations 0 , wallclock time =  54.35552930831909
+Integrator =  deterministic_adams_bashforth , step =  101 , invalid configurations 0 , wallclock time =  54.940190076828
+Integrator =  deterministic_adams_bashforth , step =  102 , invalid configurations 0 , wallclock time =  55.40462374687195
+Integrator =  deterministic_adams_bashforth , step =  103 , invalid configurations 0 , wallclock time =  55.99141764640808
+Integrator =  deterministic_adams_bashforth , step =  104 , invalid configurations 0 , wallclock time =  56.49810528755188
+Integrator =  deterministic_adams_bashforth , step =  105 , invalid configurations 0 , wallclock time =  56.95678973197937
+Integrator =  deterministic_adams_bashforth , step =  106 , invalid configurations 0 , wallclock time =  57.37888741493225
+Integrator =  deterministic_adams_bashforth , step =  107 , invalid configurations 0 , wallclock time =  57.89457440376282
+Integrator =  deterministic_adams_bashforth , step =  108 , invalid configurations 0 , wallclock time =  58.36306548118591
+Integrator =  deterministic_adams_bashforth , step =  109 , invalid configurations 0 , wallclock time =  58.83441781997681
+Integrator =  deterministic_adams_bashforth , step =  110 , invalid configurations 0 , wallclock time =  59.27223610877991
+Integrator =  deterministic_adams_bashforth , step =  111 , invalid configurations 0 , wallclock time =  59.856021881103516
+Integrator =  deterministic_adams_bashforth , step =  112 , invalid configurations 0 , wallclock time =  60.32512187957764
+Integrator =  deterministic_adams_bashforth , step =  113 , invalid configurations 0 , wallclock time =  60.80289649963379
+Integrator =  deterministic_adams_bashforth , step =  114 , invalid configurations 0 , wallclock time =  61.32298684120178
+Integrator =  deterministic_adams_bashforth , step =  115 , invalid configurations 0 , wallclock time =  61.86902165412903
+Integrator =  deterministic_adams_bashforth , step =  116 , invalid configurations 0 , wallclock time =  62.4092071056366
+Integrator =  deterministic_adams_bashforth , step =  117 , invalid configurations 0 , wallclock time =  62.86043906211853
+Integrator =  deterministic_adams_bashforth , step =  118 , invalid configurations 0 , wallclock time =  63.28864574432373
+Integrator =  deterministic_adams_bashforth , step =  119 , invalid configurations 0 , wallclock time =  63.71693205833435
+Integrator =  deterministic_adams_bashforth , step =  120 , invalid configurations 0 , wallclock time =  64.14393925666809
+Integrator =  deterministic_adams_bashforth , step =  121 , invalid configurations 0 , wallclock time =  64.60147857666016
+Integrator =  deterministic_adams_bashforth , step =  122 , invalid configurations 0 , wallclock time =  65.11136174201965
+Integrator =  deterministic_adams_bashforth , step =  123 , invalid configurations 0 , wallclock time =  65.6125955581665
+Integrator =  deterministic_adams_bashforth , step =  124 , invalid configurations 0 , wallclock time =  66.14432168006897
+Integrator =  deterministic_adams_bashforth , step =  125 , invalid configurations 0 , wallclock time =  66.64597153663635
+Integrator =  deterministic_adams_bashforth , step =  126 , invalid configurations 0 , wallclock time =  67.14395308494568
+Integrator =  deterministic_adams_bashforth , step =  127 , invalid configurations 0 , wallclock time =  67.64460277557373
+Integrator =  deterministic_adams_bashforth , step =  128 , invalid configurations 0 , wallclock time =  68.17727446556091
+Integrator =  deterministic_adams_bashforth , step =  129 , invalid configurations 0 , wallclock time =  68.63935112953186
+Integrator =  deterministic_adams_bashforth , step =  130 , invalid configurations 0 , wallclock time =  69.1055417060852
+Integrator =  deterministic_adams_bashforth , step =  131 , invalid configurations 0 , wallclock time =  69.63030290603638
+Integrator =  deterministic_adams_bashforth , step =  132 , invalid configurations 0 , wallclock time =  70.09208345413208
+Integrator =  deterministic_adams_bashforth , step =  133 , invalid configurations 0 , wallclock time =  70.59362721443176
+Integrator =  deterministic_adams_bashforth , step =  134 , invalid configurations 0 , wallclock time =  71.06144714355469
+Integrator =  deterministic_adams_bashforth , step =  135 , invalid configurations 0 , wallclock time =  71.54171442985535
+Integrator =  deterministic_adams_bashforth , step =  136 , invalid configurations 0 , wallclock time =  72.10155963897705
+Integrator =  deterministic_adams_bashforth , step =  137 , invalid configurations 0 , wallclock time =  72.57562255859375
+Integrator =  deterministic_adams_bashforth , step =  138 , invalid configurations 0 , wallclock time =  73.0326280593872
+Integrator =  deterministic_adams_bashforth , step =  139 , invalid configurations 0 , wallclock time =  73.63599228858948
+Integrator =  deterministic_adams_bashforth , step =  140 , invalid configurations 0 , wallclock time =  74.1161642074585
+Integrator =  deterministic_adams_bashforth , step =  141 , invalid configurations 0 , wallclock time =  74.63110971450806
+Integrator =  deterministic_adams_bashforth , step =  142 , invalid configurations 0 , wallclock time =  75.24511218070984
+Integrator =  deterministic_adams_bashforth , step =  143 , invalid configurations 0 , wallclock time =  75.715576171875
+Integrator =  deterministic_adams_bashforth , step =  144 , invalid configurations 0 , wallclock time =  76.30481123924255
+Integrator =  deterministic_adams_bashforth , step =  145 , invalid configurations 0 , wallclock time =  76.76989459991455
+Integrator =  deterministic_adams_bashforth , step =  146 , invalid configurations 0 , wallclock time =  77.22098422050476
+Integrator =  deterministic_adams_bashforth , step =  147 , invalid configurations 0 , wallclock time =  77.6758861541748
+Integrator =  deterministic_adams_bashforth , step =  148 , invalid configurations 0 , wallclock time =  78.20702791213989
+Integrator =  deterministic_adams_bashforth , step =  149 , invalid configurations 0 , wallclock time =  78.66097950935364
+Integrator =  deterministic_adams_bashforth , step =  150 , invalid configurations 0 , wallclock time =  79.1993498802185
+Integrator =  deterministic_adams_bashforth , step =  151 , invalid configurations 0 , wallclock time =  79.65313935279846
+Integrator =  deterministic_adams_bashforth , step =  152 , invalid configurations 0 , wallclock time =  80.07272243499756
+Integrator =  deterministic_adams_bashforth , step =  153 , invalid configurations 0 , wallclock time =  80.50014734268188
+Integrator =  deterministic_adams_bashforth , step =  154 , invalid configurations 0 , wallclock time =  80.92851829528809
+Integrator =  deterministic_adams_bashforth , step =  155 , invalid configurations 0 , wallclock time =  81.35314393043518
+Integrator =  deterministic_adams_bashforth , step =  156 , invalid configurations 0 , wallclock time =  81.83962607383728
+Integrator =  deterministic_adams_bashforth , step =  157 , invalid configurations 0 , wallclock time =  82.40467357635498
+Integrator =  deterministic_adams_bashforth , step =  158 , invalid configurations 0 , wallclock time =  82.8880968093872
+Integrator =  deterministic_adams_bashforth , step =  159 , invalid configurations 0 , wallclock time =  83.41299796104431
+Integrator =  deterministic_adams_bashforth , step =  160 , invalid configurations 0 , wallclock time =  83.8881323337555
+Integrator =  deterministic_adams_bashforth , step =  161 , invalid configurations 0 , wallclock time =  84.36940097808838
+Integrator =  deterministic_adams_bashforth , step =  162 , invalid configurations 0 , wallclock time =  84.96839785575867
+Integrator =  deterministic_adams_bashforth , step =  163 , invalid configurations 0 , wallclock time =  85.55429315567017
+Integrator =  deterministic_adams_bashforth , step =  164 , invalid configurations 0 , wallclock time =  86.08605742454529
+Integrator =  deterministic_adams_bashforth , step =  165 , invalid configurations 0 , wallclock time =  86.58525061607361
+Integrator =  deterministic_adams_bashforth , step =  166 , invalid configurations 0 , wallclock time =  87.20327472686768
+Integrator =  deterministic_adams_bashforth , step =  167 , invalid configurations 0 , wallclock time =  87.72302865982056
+Integrator =  deterministic_adams_bashforth , step =  168 , invalid configurations 0 , wallclock time =  88.3396897315979
+Integrator =  deterministic_adams_bashforth , step =  169 , invalid configurations 0 , wallclock time =  88.86880254745483
+Integrator =  deterministic_adams_bashforth , step =  170 , invalid configurations 0 , wallclock time =  89.37590527534485
+Integrator =  deterministic_adams_bashforth , step =  171 , invalid configurations 0 , wallclock time =  89.88787770271301
+Integrator =  deterministic_adams_bashforth , step =  172 , invalid configurations 0 , wallclock time =  90.52994322776794
+Integrator =  deterministic_adams_bashforth , step =  173 , invalid configurations 0 , wallclock time =  90.97595000267029
+Integrator =  deterministic_adams_bashforth , step =  174 , invalid configurations 0 , wallclock time =  91.52712655067444
+Integrator =  deterministic_adams_bashforth , step =  175 , invalid configurations 0 , wallclock time =  92.08402252197266
+Integrator =  deterministic_adams_bashforth , step =  176 , invalid configurations 0 , wallclock time =  92.57135915756226
+Integrator =  deterministic_adams_bashforth , step =  177 , invalid configurations 0 , wallclock time =  93.07494258880615
+Integrator =  deterministic_adams_bashforth , step =  178 , invalid configurations 0 , wallclock time =  93.61404347419739
+Integrator =  deterministic_adams_bashforth , step =  179 , invalid configurations 0 , wallclock time =  94.18843293190002
+Integrator =  deterministic_adams_bashforth , step =  180 , invalid configurations 0 , wallclock time =  94.67409348487854
+Integrator =  deterministic_adams_bashforth , step =  181 , invalid configurations 0 , wallclock time =  95.16337847709656
+Integrator =  deterministic_adams_bashforth , step =  182 , invalid configurations 0 , wallclock time =  95.68707847595215
+Integrator =  deterministic_adams_bashforth , step =  183 , invalid configurations 0 , wallclock time =  96.12676787376404
+Integrator =  deterministic_adams_bashforth , step =  184 , invalid configurations 0 , wallclock time =  96.65492701530457
+Integrator =  deterministic_adams_bashforth , step =  185 , invalid configurations 0 , wallclock time =  97.299978017807
+Integrator =  deterministic_adams_bashforth , step =  186 , invalid configurations 0 , wallclock time =  97.8006374835968
+Integrator =  deterministic_adams_bashforth , step =  187 , invalid configurations 0 , wallclock time =  98.3953914642334
+Integrator =  deterministic_adams_bashforth , step =  188 , invalid configurations 0 , wallclock time =  98.83864331245422
+Integrator =  deterministic_adams_bashforth , step =  189 , invalid configurations 0 , wallclock time =  99.33793330192566
+Integrator =  deterministic_adams_bashforth , step =  190 , invalid configurations 0 , wallclock time =  99.85252213478088
+Integrator =  deterministic_adams_bashforth , step =  191 , invalid configurations 0 , wallclock time =  100.30023694038391
+Integrator =  deterministic_adams_bashforth , step =  192 , invalid configurations 0 , wallclock time =  100.87975430488586
+Integrator =  deterministic_adams_bashforth , step =  193 , invalid configurations 0 , wallclock time =  101.4164662361145
+Integrator =  deterministic_adams_bashforth , step =  194 , invalid configurations 0 , wallclock time =  101.91616535186768
+Integrator =  deterministic_adams_bashforth , step =  195 , invalid configurations 0 , wallclock time =  102.46854615211487
+Integrator =  deterministic_adams_bashforth , step =  196 , invalid configurations 0 , wallclock time =  103.05271077156067
+Integrator =  deterministic_adams_bashforth , step =  197 , invalid configurations 0 , wallclock time =  103.58915686607361
+Integrator =  deterministic_adams_bashforth , step =  198 , invalid configurations 0 , wallclock time =  104.06468605995178
+Integrator =  deterministic_adams_bashforth , step =  199 , invalid configurations 0 , wallclock time =  104.5246753692627
+Integrator =  deterministic_adams_bashforth , step =  200 , invalid configurations 0 , wallclock time =  105.04497122764587
+Integrator =  deterministic_adams_bashforth , step =  201 , invalid configurations 0 , wallclock time =  105.57539820671082
+Integrator =  deterministic_adams_bashforth , step =  202 , invalid configurations 0 , wallclock time =  106.08626627922058
+Integrator =  deterministic_adams_bashforth , step =  203 , invalid configurations 0 , wallclock time =  106.61109590530396
+Integrator =  deterministic_adams_bashforth , step =  204 , invalid configurations 0 , wallclock time =  107.1191885471344
+Integrator =  deterministic_adams_bashforth , step =  205 , invalid configurations 0 , wallclock time =  107.69372868537903
+Integrator =  deterministic_adams_bashforth , step =  206 , invalid configurations 0 , wallclock time =  108.1476047039032
+Integrator =  deterministic_adams_bashforth , step =  207 , invalid configurations 0 , wallclock time =  108.63188242912292
+Integrator =  deterministic_adams_bashforth , step =  208 , invalid configurations 0 , wallclock time =  109.0980224609375
+Integrator =  deterministic_adams_bashforth , step =  209 , invalid configurations 0 , wallclock time =  109.5357756614685
+Integrator =  deterministic_adams_bashforth , step =  210 , invalid configurations 0 , wallclock time =  109.98512268066406
+Integrator =  deterministic_adams_bashforth , step =  211 , invalid configurations 0 , wallclock time =  110.43503832817078
+Integrator =  deterministic_adams_bashforth , step =  212 , invalid configurations 0 , wallclock time =  110.88627243041992
+Integrator =  deterministic_adams_bashforth , step =  213 , invalid configurations 0 , wallclock time =  111.33408069610596
+Integrator =  deterministic_adams_bashforth , step =  214 , invalid configurations 0 , wallclock time =  111.81830310821533
+Integrator =  deterministic_adams_bashforth , step =  215 , invalid configurations 0 , wallclock time =  112.33810758590698
+Integrator =  deterministic_adams_bashforth , step =  216 , invalid configurations 0 , wallclock time =  112.90872931480408
+Integrator =  deterministic_adams_bashforth , step =  217 , invalid configurations 0 , wallclock time =  113.51970267295837
+Integrator =  deterministic_adams_bashforth , step =  218 , invalid configurations 0 , wallclock time =  114.03353333473206
+Integrator =  deterministic_adams_bashforth , step =  219 , invalid configurations 0 , wallclock time =  114.5555419921875
+Integrator =  deterministic_adams_bashforth , step =  220 , invalid configurations 0 , wallclock time =  115.01769208908081
+Integrator =  deterministic_adams_bashforth , step =  221 , invalid configurations 0 , wallclock time =  115.54616117477417
+Integrator =  deterministic_adams_bashforth , step =  222 , invalid configurations 0 , wallclock time =  116.0555248260498
+Integrator =  deterministic_adams_bashforth , step =  223 , invalid configurations 0 , wallclock time =  116.61323976516724
+Integrator =  deterministic_adams_bashforth , step =  224 , invalid configurations 0 , wallclock time =  117.21133923530579
+Integrator =  deterministic_adams_bashforth , step =  225 , invalid configurations 0 , wallclock time =  117.80779957771301
+Integrator =  deterministic_adams_bashforth , step =  226 , invalid configurations 0 , wallclock time =  118.41375017166138
+Integrator =  deterministic_adams_bashforth , step =  227 , invalid configurations 0 , wallclock time =  118.91987919807434
+Integrator =  deterministic_adams_bashforth , step =  228 , invalid configurations 0 , wallclock time =  119.49503588676453
+Integrator =  deterministic_adams_bashforth , step =  229 , invalid configurations 0 , wallclock time =  119.97083282470703
+Integrator =  deterministic_adams_bashforth , step =  230 , invalid configurations 0 , wallclock time =  120.61831212043762
+Integrator =  deterministic_adams_bashforth , step =  231 , invalid configurations 0 , wallclock time =  121.14580249786377
+Integrator =  deterministic_adams_bashforth , step =  232 , invalid configurations 0 , wallclock time =  121.69105744361877
+Integrator =  deterministic_adams_bashforth , step =  233 , invalid configurations 0 , wallclock time =  122.23630475997925
+Integrator =  deterministic_adams_bashforth , step =  234 , invalid configurations 0 , wallclock time =  122.81370687484741
+Integrator =  deterministic_adams_bashforth , step =  235 , invalid configurations 0 , wallclock time =  123.42324304580688
+Integrator =  deterministic_adams_bashforth , step =  236 , invalid configurations 0 , wallclock time =  123.95371794700623
+Integrator =  deterministic_adams_bashforth , step =  237 , invalid configurations 0 , wallclock time =  124.44732284545898
+Integrator =  deterministic_adams_bashforth , step =  238 , invalid configurations 0 , wallclock time =  124.96103620529175
+Integrator =  deterministic_adams_bashforth , step =  239 , invalid configurations 0 , wallclock time =  125.42907404899597
+Integrator =  deterministic_adams_bashforth , step =  240 , invalid configurations 0 , wallclock time =  126.07580423355103
+Integrator =  deterministic_adams_bashforth , step =  241 , invalid configurations 0 , wallclock time =  126.64125728607178
+Integrator =  deterministic_adams_bashforth , step =  242 , invalid configurations 0 , wallclock time =  127.19495701789856
+Integrator =  deterministic_adams_bashforth , step =  243 , invalid configurations 0 , wallclock time =  127.74134731292725
+Integrator =  deterministic_adams_bashforth , step =  244 , invalid configurations 0 , wallclock time =  128.35669088363647
+Integrator =  deterministic_adams_bashforth , step =  245 , invalid configurations 0 , wallclock time =  128.94726133346558
+Integrator =  deterministic_adams_bashforth , step =  246 , invalid configurations 0 , wallclock time =  129.53185439109802
+Integrator =  deterministic_adams_bashforth , step =  247 , invalid configurations 0 , wallclock time =  130.0256540775299
+Integrator =  deterministic_adams_bashforth , step =  248 , invalid configurations 0 , wallclock time =  130.58665204048157
+Integrator =  deterministic_adams_bashforth , step =  249 , invalid configurations 0 , wallclock time =  131.1831169128418
+Integrator =  deterministic_adams_bashforth , step =  250 , invalid configurations 0 , wallclock time =  131.80824208259583
+Integrator =  deterministic_adams_bashforth , step =  251 , invalid configurations 0 , wallclock time =  132.4858317375183
+Integrator =  deterministic_adams_bashforth , step =  252 , invalid configurations 0 , wallclock time =  133.08571934700012
+Integrator =  deterministic_adams_bashforth , step =  253 , invalid configurations 0 , wallclock time =  133.68634223937988
+Integrator =  deterministic_adams_bashforth , step =  254 , invalid configurations 0 , wallclock time =  134.31862330436707
+Integrator =  deterministic_adams_bashforth , step =  255 , invalid configurations 0 , wallclock time =  134.95804810523987
+Integrator =  deterministic_adams_bashforth , step =  256 , invalid configurations 0 , wallclock time =  135.49691462516785
+Integrator =  deterministic_adams_bashforth , step =  257 , invalid configurations 0 , wallclock time =  135.96524786949158
+Integrator =  deterministic_adams_bashforth , step =  258 , invalid configurations 0 , wallclock time =  136.5066487789154
+Integrator =  deterministic_adams_bashforth , step =  259 , invalid configurations 0 , wallclock time =  137.13260102272034
+Integrator =  deterministic_adams_bashforth , step =  260 , invalid configurations 0 , wallclock time =  137.61367964744568
+Integrator =  deterministic_adams_bashforth , step =  261 , invalid configurations 0 , wallclock time =  138.11906719207764
+Integrator =  deterministic_adams_bashforth , step =  262 , invalid configurations 0 , wallclock time =  138.6252682209015
+Integrator =  deterministic_adams_bashforth , step =  263 , invalid configurations 0 , wallclock time =  139.16023468971252
+Integrator =  deterministic_adams_bashforth , step =  264 , invalid configurations 0 , wallclock time =  139.74432802200317
+Integrator =  deterministic_adams_bashforth , step =  265 , invalid configurations 0 , wallclock time =  140.25353598594666
+Integrator =  deterministic_adams_bashforth , step =  266 , invalid configurations 0 , wallclock time =  140.81813716888428
+Integrator =  deterministic_adams_bashforth , step =  267 , invalid configurations 0 , wallclock time =  141.5001003742218
+Integrator =  deterministic_adams_bashforth , step =  268 , invalid configurations 0 , wallclock time =  142.2385401725769
+Integrator =  deterministic_adams_bashforth , step =  269 , invalid configurations 0 , wallclock time =  142.77104377746582
+Integrator =  deterministic_adams_bashforth , step =  270 , invalid configurations 0 , wallclock time =  143.4163477420807
+Integrator =  deterministic_adams_bashforth , step =  271 , invalid configurations 0 , wallclock time =  144.14079928398132
+Integrator =  deterministic_adams_bashforth , step =  272 , invalid configurations 0 , wallclock time =  144.84927487373352
+Integrator =  deterministic_adams_bashforth , step =  273 , invalid configurations 0 , wallclock time =  145.42256021499634
+Integrator =  deterministic_adams_bashforth , step =  274 , invalid configurations 0 , wallclock time =  146.02912044525146
+Integrator =  deterministic_adams_bashforth , step =  275 , invalid configurations 0 , wallclock time =  146.65174341201782
+Integrator =  deterministic_adams_bashforth , step =  276 , invalid configurations 0 , wallclock time =  147.20468735694885
+Integrator =  deterministic_adams_bashforth , step =  277 , invalid configurations 0 , wallclock time =  147.69153952598572
+Integrator =  deterministic_adams_bashforth , step =  278 , invalid configurations 0 , wallclock time =  148.3633599281311
+Integrator =  deterministic_adams_bashforth , step =  279 , invalid configurations 0 , wallclock time =  148.87952280044556
+Integrator =  deterministic_adams_bashforth , step =  280 , invalid configurations 0 , wallclock time =  149.39655923843384
+Integrator =  deterministic_adams_bashforth , step =  281 , invalid configurations 0 , wallclock time =  149.9326901435852
+Integrator =  deterministic_adams_bashforth , step =  282 , invalid configurations 0 , wallclock time =  150.5578911304474
+Integrator =  deterministic_adams_bashforth , step =  283 , invalid configurations 0 , wallclock time =  151.15692329406738
+Integrator =  deterministic_adams_bashforth , step =  284 , invalid configurations 0 , wallclock time =  151.64185094833374
+Integrator =  deterministic_adams_bashforth , step =  285 , invalid configurations 0 , wallclock time =  152.171448469162
+Integrator =  deterministic_adams_bashforth , step =  286 , invalid configurations 0 , wallclock time =  152.8916893005371
+Integrator =  deterministic_adams_bashforth , step =  287 , invalid configurations 0 , wallclock time =  153.51644730567932
+Integrator =  deterministic_adams_bashforth , step =  288 , invalid configurations 0 , wallclock time =  154.137629032135
+Integrator =  deterministic_adams_bashforth , step =  289 , invalid configurations 0 , wallclock time =  154.75220441818237
+Integrator =  deterministic_adams_bashforth , step =  290 , invalid configurations 0 , wallclock time =  155.27669739723206
+Integrator =  deterministic_adams_bashforth , step =  291 , invalid configurations 0 , wallclock time =  155.92140889167786
+Integrator =  deterministic_adams_bashforth , step =  292 , invalid configurations 0 , wallclock time =  156.46605610847473
+Integrator =  deterministic_adams_bashforth , step =  293 , invalid configurations 0 , wallclock time =  157.14818572998047
+Integrator =  deterministic_adams_bashforth , step =  294 , invalid configurations 0 , wallclock time =  157.7633318901062
+Integrator =  deterministic_adams_bashforth , step =  295 , invalid configurations 0 , wallclock time =  158.28675532341003
+Integrator =  deterministic_adams_bashforth , step =  296 , invalid configurations 0 , wallclock time =  158.84457731246948
+Integrator =  deterministic_adams_bashforth , step =  297 , invalid configurations 0 , wallclock time =  159.46498465538025
+Integrator =  deterministic_adams_bashforth , step =  298 , invalid configurations 0 , wallclock time =  160.17929410934448
+Integrator =  deterministic_adams_bashforth , step =  299 , invalid configurations 0 , wallclock time =  160.75123286247253
+Integrator =  deterministic_adams_bashforth , step =  300 , invalid configurations 0 , wallclock time =  161.3146092891693
+Integrator =  deterministic_adams_bashforth , step =  301 , invalid configurations 0 , wallclock time =  161.87861156463623
+Integrator =  deterministic_adams_bashforth , step =  302 , invalid configurations 0 , wallclock time =  162.47446537017822
+Integrator =  deterministic_adams_bashforth , step =  303 , invalid configurations 0 , wallclock time =  163.00151228904724
+Integrator =  deterministic_adams_bashforth , step =  304 , invalid configurations 0 , wallclock time =  163.67384433746338
+Integrator =  deterministic_adams_bashforth , step =  305 , invalid configurations 0 , wallclock time =  164.10565185546875
+Integrator =  deterministic_adams_bashforth , step =  306 , invalid configurations 0 , wallclock time =  164.5464644432068
+Integrator =  deterministic_adams_bashforth , step =  307 , invalid configurations 0 , wallclock time =  164.98107433319092
+Integrator =  deterministic_adams_bashforth , step =  308 , invalid configurations 0 , wallclock time =  165.42323064804077
+Integrator =  deterministic_adams_bashforth , step =  309 , invalid configurations 0 , wallclock time =  165.85892748832703
+Integrator =  deterministic_adams_bashforth , step =  310 , invalid configurations 0 , wallclock time =  166.29436659812927
+Integrator =  deterministic_adams_bashforth , step =  311 , invalid configurations 0 , wallclock time =  166.73155331611633
+Integrator =  deterministic_adams_bashforth , step =  312 , invalid configurations 0 , wallclock time =  167.17294764518738
+Integrator =  deterministic_adams_bashforth , step =  313 , invalid configurations 0 , wallclock time =  167.70886397361755
+Integrator =  deterministic_adams_bashforth , step =  314 , invalid configurations 0 , wallclock time =  168.41894268989563
+Integrator =  deterministic_adams_bashforth , step =  315 , invalid configurations 0 , wallclock time =  169.14727640151978
+Integrator =  deterministic_adams_bashforth , step =  316 , invalid configurations 0 , wallclock time =  169.68104815483093
+Integrator =  deterministic_adams_bashforth , step =  317 , invalid configurations 0 , wallclock time =  170.184711933136
+Integrator =  deterministic_adams_bashforth , step =  318 , invalid configurations 0 , wallclock time =  170.78304862976074
+Integrator =  deterministic_adams_bashforth , step =  319 , invalid configurations 0 , wallclock time =  171.31388115882874
+Integrator =  deterministic_adams_bashforth , step =  320 , invalid configurations 0 , wallclock time =  171.904531955719
+Integrator =  deterministic_adams_bashforth , step =  321 , invalid configurations 0 , wallclock time =  172.5474407672882
+Integrator =  deterministic_adams_bashforth , step =  322 , invalid configurations 0 , wallclock time =  172.98622035980225
+Integrator =  deterministic_adams_bashforth , step =  323 , invalid configurations 0 , wallclock time =  173.43789148330688
+Integrator =  deterministic_adams_bashforth , step =  324 , invalid configurations 0 , wallclock time =  173.98987793922424
+Integrator =  deterministic_adams_bashforth , step =  325 , invalid configurations 0 , wallclock time =  174.6343674659729
+Integrator =  deterministic_adams_bashforth , step =  326 , invalid configurations 0 , wallclock time =  175.23960661888123
+Integrator =  deterministic_adams_bashforth , step =  327 , invalid configurations 0 , wallclock time =  175.89702582359314
+Integrator =  deterministic_adams_bashforth , step =  328 , invalid configurations 0 , wallclock time =  176.38741827011108
+Integrator =  deterministic_adams_bashforth , step =  329 , invalid configurations 0 , wallclock time =  176.92466855049133
+Integrator =  deterministic_adams_bashforth , step =  330 , invalid configurations 0 , wallclock time =  177.4831838607788
+Integrator =  deterministic_adams_bashforth , step =  331 , invalid configurations 0 , wallclock time =  178.03180742263794
+Integrator =  deterministic_adams_bashforth , step =  332 , invalid configurations 0 , wallclock time =  178.61456441879272
+Integrator =  deterministic_adams_bashforth , step =  333 , invalid configurations 0 , wallclock time =  179.14062356948853
+Integrator =  deterministic_adams_bashforth , step =  334 , invalid configurations 0 , wallclock time =  179.7240116596222
+Integrator =  deterministic_adams_bashforth , step =  335 , invalid configurations 0 , wallclock time =  180.36594200134277
+Integrator =  deterministic_adams_bashforth , step =  336 , invalid configurations 0 , wallclock time =  180.96578574180603
+Integrator =  deterministic_adams_bashforth , step =  337 , invalid configurations 0 , wallclock time =  181.6151990890503
+Integrator =  deterministic_adams_bashforth , step =  338 , invalid configurations 0 , wallclock time =  182.1015498638153
+Integrator =  deterministic_adams_bashforth , step =  339 , invalid configurations 0 , wallclock time =  182.57618761062622
+Integrator =  deterministic_adams_bashforth , step =  340 , invalid configurations 0 , wallclock time =  183.17728328704834
+Integrator =  deterministic_adams_bashforth , step =  341 , invalid configurations 0 , wallclock time =  183.69560050964355
+Integrator =  deterministic_adams_bashforth , step =  342 , invalid configurations 0 , wallclock time =  184.2092366218567
+Integrator =  deterministic_adams_bashforth , step =  343 , invalid configurations 0 , wallclock time =  184.7033805847168
+Integrator =  deterministic_adams_bashforth , step =  344 , invalid configurations 0 , wallclock time =  185.25100469589233
+Integrator =  deterministic_adams_bashforth , step =  345 , invalid configurations 0 , wallclock time =  185.82990622520447
+Integrator =  deterministic_adams_bashforth , step =  346 , invalid configurations 0 , wallclock time =  186.40607237815857
+Integrator =  deterministic_adams_bashforth , step =  347 , invalid configurations 0 , wallclock time =  187.0250964164734
+Integrator =  deterministic_adams_bashforth , step =  348 , invalid configurations 0 , wallclock time =  187.62256932258606
+Integrator =  deterministic_adams_bashforth , step =  349 , invalid configurations 0 , wallclock time =  188.22618508338928
+Integrator =  deterministic_adams_bashforth , step =  350 , invalid configurations 0 , wallclock time =  188.85530066490173
+Integrator =  deterministic_adams_bashforth , step =  351 , invalid configurations 0 , wallclock time =  189.47272944450378
+Integrator =  deterministic_adams_bashforth , step =  352 , invalid configurations 0 , wallclock time =  189.99600791931152
+Integrator =  deterministic_adams_bashforth , step =  353 , invalid configurations 0 , wallclock time =  190.51894235610962
+Integrator =  deterministic_adams_bashforth , step =  354 , invalid configurations 0 , wallclock time =  191.07124423980713
+Integrator =  deterministic_adams_bashforth , step =  355 , invalid configurations 0 , wallclock time =  191.7723786830902
+Integrator =  deterministic_adams_bashforth , step =  356 , invalid configurations 0 , wallclock time =  192.35501098632812
+Integrator =  deterministic_adams_bashforth , step =  357 , invalid configurations 0 , wallclock time =  192.9527623653412
+Integrator =  deterministic_adams_bashforth , step =  358 , invalid configurations 0 , wallclock time =  193.62012910842896
+Integrator =  deterministic_adams_bashforth , step =  359 , invalid configurations 0 , wallclock time =  194.1711254119873
+Integrator =  deterministic_adams_bashforth , step =  360 , invalid configurations 0 , wallclock time =  194.72517108917236
+Integrator =  deterministic_adams_bashforth , step =  361 , invalid configurations 0 , wallclock time =  195.31013131141663
+Integrator =  deterministic_adams_bashforth , step =  362 , invalid configurations 0 , wallclock time =  195.92425513267517
+Integrator =  deterministic_adams_bashforth , step =  363 , invalid configurations 0 , wallclock time =  196.46130108833313
+Integrator =  deterministic_adams_bashforth , step =  364 , invalid configurations 0 , wallclock time =  197.0940809249878
+Integrator =  deterministic_adams_bashforth , step =  365 , invalid configurations 0 , wallclock time =  197.74453973770142
+Integrator =  deterministic_adams_bashforth , step =  366 , invalid configurations 0 , wallclock time =  198.39060425758362
+Integrator =  deterministic_adams_bashforth , step =  367 , invalid configurations 0 , wallclock time =  199.02186942100525
+Integrator =  deterministic_adams_bashforth , step =  368 , invalid configurations 0 , wallclock time =  199.63897061347961
+Integrator =  deterministic_adams_bashforth , step =  369 , invalid configurations 0 , wallclock time =  200.26098227500916
+Integrator =  deterministic_adams_bashforth , step =  370 , invalid configurations 0 , wallclock time =  200.9635524749756
+Integrator =  deterministic_adams_bashforth , step =  371 , invalid configurations 0 , wallclock time =  201.4036476612091
+Integrator =  deterministic_adams_bashforth , step =  372 , invalid configurations 0 , wallclock time =  201.9012565612793
+Integrator =  deterministic_adams_bashforth , step =  373 , invalid configurations 0 , wallclock time =  202.51193833351135
+Integrator =  deterministic_adams_bashforth , step =  374 , invalid configurations 0 , wallclock time =  203.01174092292786
+Integrator =  deterministic_adams_bashforth , step =  375 , invalid configurations 0 , wallclock time =  203.5918037891388
+Integrator =  deterministic_adams_bashforth , step =  376 , invalid configurations 0 , wallclock time =  204.19764041900635
+Integrator =  deterministic_adams_bashforth , step =  377 , invalid configurations 0 , wallclock time =  204.7854950428009
+Integrator =  deterministic_adams_bashforth , step =  378 , invalid configurations 0 , wallclock time =  205.41268610954285
+Integrator =  deterministic_adams_bashforth , step =  379 , invalid configurations 0 , wallclock time =  205.98894500732422
+Integrator =  deterministic_adams_bashforth , step =  380 , invalid configurations 0 , wallclock time =  206.6143615245819
+Integrator =  deterministic_adams_bashforth , step =  381 , invalid configurations 0 , wallclock time =  207.22242522239685
+Integrator =  deterministic_adams_bashforth , step =  382 , invalid configurations 0 , wallclock time =  207.7385025024414
+Integrator =  deterministic_adams_bashforth , step =  383 , invalid configurations 0 , wallclock time =  208.25187587738037
+Integrator =  deterministic_adams_bashforth , step =  384 , invalid configurations 0 , wallclock time =  208.7600235939026
+Integrator =  deterministic_adams_bashforth , step =  385 , invalid configurations 0 , wallclock time =  209.26809072494507
+Integrator =  deterministic_adams_bashforth , step =  386 , invalid configurations 0 , wallclock time =  209.8789873123169
+Integrator =  deterministic_adams_bashforth , step =  387 , invalid configurations 0 , wallclock time =  210.50838160514832
+Integrator =  deterministic_adams_bashforth , step =  388 , invalid configurations 0 , wallclock time =  211.24890875816345
+Integrator =  deterministic_adams_bashforth , step =  389 , invalid configurations 0 , wallclock time =  211.70331454277039
+Integrator =  deterministic_adams_bashforth , step =  390 , invalid configurations 0 , wallclock time =  212.15174889564514
+Integrator =  deterministic_adams_bashforth , step =  391 , invalid configurations 0 , wallclock time =  212.60779881477356
+Integrator =  deterministic_adams_bashforth , step =  392 , invalid configurations 0 , wallclock time =  213.12503170967102
+Integrator =  deterministic_adams_bashforth , step =  393 , invalid configurations 0 , wallclock time =  213.75770592689514
+Integrator =  deterministic_adams_bashforth , step =  394 , invalid configurations 0 , wallclock time =  214.37102937698364
+Integrator =  deterministic_adams_bashforth , step =  395 , invalid configurations 0 , wallclock time =  214.9585156440735
+Integrator =  deterministic_adams_bashforth , step =  396 , invalid configurations 0 , wallclock time =  215.5589005947113
+Integrator =  deterministic_adams_bashforth , step =  397 , invalid configurations 0 , wallclock time =  216.17749404907227
+Integrator =  deterministic_adams_bashforth , step =  398 , invalid configurations 0 , wallclock time =  216.83780717849731
+Integrator =  deterministic_adams_bashforth , step =  399 , invalid configurations 0 , wallclock time =  217.44050645828247
+Integrator =  deterministic_adams_bashforth , step =  400 , invalid configurations 0 , wallclock time =  218.04589819908142
+Integrator =  deterministic_adams_bashforth , step =  401 , invalid configurations 0 , wallclock time =  218.66062378883362
+Integrator =  deterministic_adams_bashforth , step =  402 , invalid configurations 0 , wallclock time =  219.3156702518463
+Integrator =  deterministic_adams_bashforth , step =  403 , invalid configurations 0 , wallclock time =  219.88093900680542
+Integrator =  deterministic_adams_bashforth , step =  404 , invalid configurations 0 , wallclock time =  220.47972297668457
+Integrator =  deterministic_adams_bashforth , step =  405 , invalid configurations 0 , wallclock time =  220.94067239761353
+Integrator =  deterministic_adams_bashforth , step =  406 , invalid configurations 0 , wallclock time =  221.52709460258484
+Integrator =  deterministic_adams_bashforth , step =  407 , invalid configurations 0 , wallclock time =  222.1448676586151
+Integrator =  deterministic_adams_bashforth , step =  408 , invalid configurations 0 , wallclock time =  222.7616536617279
+Integrator =  deterministic_adams_bashforth , step =  409 , invalid configurations 0 , wallclock time =  223.4336109161377
+Integrator =  deterministic_adams_bashforth , step =  410 , invalid configurations 0 , wallclock time =  223.9798789024353
+Integrator =  deterministic_adams_bashforth , step =  411 , invalid configurations 0 , wallclock time =  224.49573874473572
+Integrator =  deterministic_adams_bashforth , step =  412 , invalid configurations 0 , wallclock time =  225.0971999168396
+Integrator =  deterministic_adams_bashforth , step =  413 , invalid configurations 0 , wallclock time =  225.75944447517395
+Integrator =  deterministic_adams_bashforth , step =  414 , invalid configurations 0 , wallclock time =  226.38623666763306
+Integrator =  deterministic_adams_bashforth , step =  415 , invalid configurations 0 , wallclock time =  226.98319363594055
+Integrator =  deterministic_adams_bashforth , step =  416 , invalid configurations 0 , wallclock time =  227.64026832580566
+Integrator =  deterministic_adams_bashforth , step =  417 , invalid configurations 0 , wallclock time =  228.38443231582642
+Integrator =  deterministic_adams_bashforth , step =  418 , invalid configurations 0 , wallclock time =  229.1230034828186
+Integrator =  deterministic_adams_bashforth , step =  419 , invalid configurations 0 , wallclock time =  229.86947536468506
+Integrator =  deterministic_adams_bashforth , step =  420 , invalid configurations 0 , wallclock time =  230.3419930934906
+Integrator =  deterministic_adams_bashforth , step =  421 , invalid configurations 0 , wallclock time =  230.76740741729736
+Integrator =  deterministic_adams_bashforth , step =  422 , invalid configurations 0 , wallclock time =  231.1958041191101
+Integrator =  deterministic_adams_bashforth , step =  423 , invalid configurations 0 , wallclock time =  231.63299536705017
+Integrator =  deterministic_adams_bashforth , step =  424 , invalid configurations 0 , wallclock time =  232.21104741096497
+Integrator =  deterministic_adams_bashforth , step =  425 , invalid configurations 0 , wallclock time =  232.8299515247345
+Integrator =  deterministic_adams_bashforth , step =  426 , invalid configurations 0 , wallclock time =  233.47431635856628
+Integrator =  deterministic_adams_bashforth , step =  427 , invalid configurations 0 , wallclock time =  233.9740092754364
+Integrator =  deterministic_adams_bashforth , step =  428 , invalid configurations 0 , wallclock time =  234.52937698364258
+Integrator =  deterministic_adams_bashforth , step =  429 , invalid configurations 0 , wallclock time =  235.1087110042572
+Integrator =  deterministic_adams_bashforth , step =  430 , invalid configurations 0 , wallclock time =  235.74201583862305
+Integrator =  deterministic_adams_bashforth , step =  431 , invalid configurations 0 , wallclock time =  236.23312783241272
+Integrator =  deterministic_adams_bashforth , step =  432 , invalid configurations 0 , wallclock time =  236.73405265808105
+Integrator =  deterministic_adams_bashforth , step =  433 , invalid configurations 0 , wallclock time =  237.24331545829773
+Integrator =  deterministic_adams_bashforth , step =  434 , invalid configurations 0 , wallclock time =  237.77333331108093
+Integrator =  deterministic_adams_bashforth , step =  435 , invalid configurations 0 , wallclock time =  238.41298985481262
+Integrator =  deterministic_adams_bashforth , step =  436 , invalid configurations 0 , wallclock time =  239.00544714927673
+Integrator =  deterministic_adams_bashforth , step =  437 , invalid configurations 0 , wallclock time =  239.6916105747223
+Integrator =  deterministic_adams_bashforth , step =  438 , invalid configurations 0 , wallclock time =  240.41503357887268
+Integrator =  deterministic_adams_bashforth , step =  439 , invalid configurations 0 , wallclock time =  241.0813934803009
+Integrator =  deterministic_adams_bashforth , step =  440 , invalid configurations 0 , wallclock time =  241.72090196609497
+Integrator =  deterministic_adams_bashforth , step =  441 , invalid configurations 0 , wallclock time =  242.40025448799133
+Integrator =  deterministic_adams_bashforth , step =  442 , invalid configurations 0 , wallclock time =  242.92032289505005
+Integrator =  deterministic_adams_bashforth , step =  443 , invalid configurations 0 , wallclock time =  243.51327991485596
+Integrator =  deterministic_adams_bashforth , step =  444 , invalid configurations 0 , wallclock time =  244.13106155395508
+Integrator =  deterministic_adams_bashforth , step =  445 , invalid configurations 0 , wallclock time =  244.74726009368896
+Integrator =  deterministic_adams_bashforth , step =  446 , invalid configurations 0 , wallclock time =  245.2811722755432
+Integrator =  deterministic_adams_bashforth , step =  447 , invalid configurations 0 , wallclock time =  245.7745258808136
+Integrator =  deterministic_adams_bashforth , step =  448 , invalid configurations 0 , wallclock time =  246.2545599937439
+Integrator =  deterministic_adams_bashforth , step =  449 , invalid configurations 0 , wallclock time =  246.76985025405884
+Integrator =  deterministic_adams_bashforth , step =  450 , invalid configurations 0 , wallclock time =  247.3034725189209
+Integrator =  deterministic_adams_bashforth , step =  451 , invalid configurations 0 , wallclock time =  247.90982604026794
+Integrator =  deterministic_adams_bashforth , step =  452 , invalid configurations 0 , wallclock time =  248.51703238487244
+Integrator =  deterministic_adams_bashforth , step =  453 , invalid configurations 0 , wallclock time =  249.1194429397583
+Integrator =  deterministic_adams_bashforth , step =  454 , invalid configurations 0 , wallclock time =  249.85258555412292
+Integrator =  deterministic_adams_bashforth , step =  455 , invalid configurations 0 , wallclock time =  250.57985830307007
+Integrator =  deterministic_adams_bashforth , step =  456 , invalid configurations 0 , wallclock time =  251.07778573036194
+Integrator =  deterministic_adams_bashforth , step =  457 , invalid configurations 0 , wallclock time =  251.56267404556274
+Integrator =  deterministic_adams_bashforth , step =  458 , invalid configurations 0 , wallclock time =  252.15500164031982
+Integrator =  deterministic_adams_bashforth , step =  459 , invalid configurations 0 , wallclock time =  252.7696430683136
+Integrator =  deterministic_adams_bashforth , step =  460 , invalid configurations 0 , wallclock time =  253.4066014289856
+Integrator =  deterministic_adams_bashforth , step =  461 , invalid configurations 0 , wallclock time =  254.03545832633972
+Integrator =  deterministic_adams_bashforth , step =  462 , invalid configurations 0 , wallclock time =  254.65347170829773
+Integrator =  deterministic_adams_bashforth , step =  463 , invalid configurations 0 , wallclock time =  255.2575225830078
+Integrator =  deterministic_adams_bashforth , step =  464 , invalid configurations 0 , wallclock time =  255.84209561347961
+Integrator =  deterministic_adams_bashforth , step =  465 , invalid configurations 0 , wallclock time =  256.4723651409149
+Integrator =  deterministic_adams_bashforth , step =  466 , invalid configurations 0 , wallclock time =  257.1169636249542
+Integrator =  deterministic_adams_bashforth , step =  467 , invalid configurations 0 , wallclock time =  257.70874428749084
+Integrator =  deterministic_adams_bashforth , step =  468 , invalid configurations 0 , wallclock time =  258.290983915329
+Integrator =  deterministic_adams_bashforth , step =  469 , invalid configurations 0 , wallclock time =  258.95108246803284
+Integrator =  deterministic_adams_bashforth , step =  470 , invalid configurations 0 , wallclock time =  259.67389464378357
+Integrator =  deterministic_adams_bashforth , step =  471 , invalid configurations 0 , wallclock time =  260.20748496055603
+Integrator =  deterministic_adams_bashforth , step =  472 , invalid configurations 0 , wallclock time =  260.69186639785767
+Integrator =  deterministic_adams_bashforth , step =  473 , invalid configurations 0 , wallclock time =  261.186439037323
+Integrator =  deterministic_adams_bashforth , step =  474 , invalid configurations 0 , wallclock time =  261.81007981300354
+Integrator =  deterministic_adams_bashforth , step =  475 , invalid configurations 0 , wallclock time =  262.4584970474243
+Integrator =  deterministic_adams_bashforth , step =  476 , invalid configurations 0 , wallclock time =  263.3280899524689
+Integrator =  deterministic_adams_bashforth , step =  477 , invalid configurations 0 , wallclock time =  263.84784030914307
+Integrator =  deterministic_adams_bashforth , step =  478 , invalid configurations 0 , wallclock time =  264.32554149627686
+Integrator =  deterministic_adams_bashforth , step =  479 , invalid configurations 0 , wallclock time =  264.9052357673645
+Integrator =  deterministic_adams_bashforth , step =  480 , invalid configurations 0 , wallclock time =  265.49290657043457
+Integrator =  deterministic_adams_bashforth , step =  481 , invalid configurations 0 , wallclock time =  266.1332187652588
+Integrator =  deterministic_adams_bashforth , step =  482 , invalid configurations 0 , wallclock time =  266.97240829467773
+Integrator =  deterministic_adams_bashforth , step =  483 , invalid configurations 0 , wallclock time =  267.57282853126526
+Integrator =  deterministic_adams_bashforth , step =  484 , invalid configurations 0 , wallclock time =  268.1416380405426
+Integrator =  deterministic_adams_bashforth , step =  485 , invalid configurations 0 , wallclock time =  268.858380317688
+Integrator =  deterministic_adams_bashforth , step =  486 , invalid configurations 0 , wallclock time =  269.5674774646759
+Integrator =  deterministic_adams_bashforth , step =  487 , invalid configurations 0 , wallclock time =  270.0842523574829
+Integrator =  deterministic_adams_bashforth , step =  488 , invalid configurations 0 , wallclock time =  270.5685317516327
+Integrator =  deterministic_adams_bashforth , step =  489 , invalid configurations 0 , wallclock time =  271.150431394577
+Integrator =  deterministic_adams_bashforth , step =  490 , invalid configurations 0 , wallclock time =  271.70597410202026
+Integrator =  deterministic_adams_bashforth , step =  491 , invalid configurations 0 , wallclock time =  272.3332118988037
+Integrator =  deterministic_adams_bashforth , step =  492 , invalid configurations 0 , wallclock time =  272.8931624889374
+Integrator =  deterministic_adams_bashforth , step =  493 , invalid configurations 0 , wallclock time =  273.4380979537964
+Integrator =  deterministic_adams_bashforth , step =  494 , invalid configurations 0 , wallclock time =  274.1684114933014
+Integrator =  deterministic_adams_bashforth , step =  495 , invalid configurations 0 , wallclock time =  275.00243973731995
+Integrator =  deterministic_adams_bashforth , step =  496 , invalid configurations 0 , wallclock time =  275.56106758117676
+Integrator =  deterministic_adams_bashforth , step =  497 , invalid configurations 0 , wallclock time =  276.3042643070221
+Integrator =  deterministic_adams_bashforth , step =  498 , invalid configurations 0 , wallclock time =  276.81258821487427
+Integrator =  deterministic_adams_bashforth , step =  499 , invalid configurations 0 , wallclock time =  277.4211919307709
+Integrator =  deterministic_adams_bashforth , step =  500 , invalid configurations 0 , wallclock time =  278.0211021900177
+Integrator =  deterministic_adams_bashforth , step =  501 , invalid configurations 0 , wallclock time =  278.6011745929718
+Integrator =  deterministic_adams_bashforth , step =  502 , invalid configurations 0 , wallclock time =  279.27039432525635
+Integrator =  deterministic_adams_bashforth , step =  503 , invalid configurations 0 , wallclock time =  279.9636206626892
+Integrator =  deterministic_adams_bashforth , step =  504 , invalid configurations 0 , wallclock time =  280.5389153957367
+Integrator =  deterministic_adams_bashforth , step =  505 , invalid configurations 0 , wallclock time =  281.1415145397186
+Integrator =  deterministic_adams_bashforth , step =  506 , invalid configurations 0 , wallclock time =  281.76885890960693
+Integrator =  deterministic_adams_bashforth , step =  507 , invalid configurations 0 , wallclock time =  282.3675203323364
+Integrator =  deterministic_adams_bashforth , step =  508 , invalid configurations 0 , wallclock time =  282.9437873363495
+Integrator =  deterministic_adams_bashforth , step =  509 , invalid configurations 0 , wallclock time =  283.5164589881897
+Integrator =  deterministic_adams_bashforth , step =  510 , invalid configurations 0 , wallclock time =  284.09628081321716
+Integrator =  deterministic_adams_bashforth , step =  511 , invalid configurations 0 , wallclock time =  284.7005784511566
+Integrator =  deterministic_adams_bashforth , step =  512 , invalid configurations 0 , wallclock time =  285.3156111240387
+Integrator =  deterministic_adams_bashforth , step =  513 , invalid configurations 0 , wallclock time =  285.8706784248352
+Integrator =  deterministic_adams_bashforth , step =  514 , invalid configurations 0 , wallclock time =  286.52027583122253
+Integrator =  deterministic_adams_bashforth , step =  515 , invalid configurations 0 , wallclock time =  287.1424331665039
+Integrator =  deterministic_adams_bashforth , step =  516 , invalid configurations 0 , wallclock time =  287.7511065006256
+Integrator =  deterministic_adams_bashforth , step =  517 , invalid configurations 0 , wallclock time =  288.38216376304626
+Integrator =  deterministic_adams_bashforth , step =  518 , invalid configurations 0 , wallclock time =  288.94113636016846
+Integrator =  deterministic_adams_bashforth , step =  519 , invalid configurations 0 , wallclock time =  289.39597964286804
+Integrator =  deterministic_adams_bashforth , step =  520 , invalid configurations 0 , wallclock time =  289.895400762558
+Integrator =  deterministic_adams_bashforth , step =  521 , invalid configurations 0 , wallclock time =  290.39433574676514
+Integrator =  deterministic_adams_bashforth , step =  522 , invalid configurations 0 , wallclock time =  290.86260628700256
+Integrator =  deterministic_adams_bashforth , step =  523 , invalid configurations 0 , wallclock time =  291.4075644016266
+Integrator =  deterministic_adams_bashforth , step =  524 , invalid configurations 0 , wallclock time =  291.9876961708069
+Integrator =  deterministic_adams_bashforth , step =  525 , invalid configurations 0 , wallclock time =  292.5721871852875
+Integrator =  deterministic_adams_bashforth , step =  526 , invalid configurations 0 , wallclock time =  293.24177074432373
+Integrator =  deterministic_adams_bashforth , step =  527 , invalid configurations 0 , wallclock time =  293.84198665618896
+Integrator =  deterministic_adams_bashforth , step =  528 , invalid configurations 0 , wallclock time =  294.48323369026184
+Integrator =  deterministic_adams_bashforth , step =  529 , invalid configurations 0 , wallclock time =  295.2688949108124
+Integrator =  deterministic_adams_bashforth , step =  530 , invalid configurations 0 , wallclock time =  296.01688838005066
+Integrator =  deterministic_adams_bashforth , step =  531 , invalid configurations 0 , wallclock time =  296.5297930240631
+Integrator =  deterministic_adams_bashforth , step =  532 , invalid configurations 0 , wallclock time =  297.0599937438965
+Integrator =  deterministic_adams_bashforth , step =  533 , invalid configurations 0 , wallclock time =  297.6986746788025
+Integrator =  deterministic_adams_bashforth , step =  534 , invalid configurations 0 , wallclock time =  298.46679186820984
+Integrator =  deterministic_adams_bashforth , step =  535 , invalid configurations 0 , wallclock time =  299.217298746109
+Integrator =  deterministic_adams_bashforth , step =  536 , invalid configurations 0 , wallclock time =  299.95488452911377
+Integrator =  deterministic_adams_bashforth , step =  537 , invalid configurations 0 , wallclock time =  300.5656352043152
+Integrator =  deterministic_adams_bashforth , step =  538 , invalid configurations 0 , wallclock time =  301.169310092926
+Integrator =  deterministic_adams_bashforth , step =  539 , invalid configurations 0 , wallclock time =  301.6507980823517
+Integrator =  deterministic_adams_bashforth , step =  540 , invalid configurations 0 , wallclock time =  302.1877074241638
+Integrator =  deterministic_adams_bashforth , step =  541 , invalid configurations 0 , wallclock time =  302.7381389141083
+Integrator =  deterministic_adams_bashforth , step =  542 , invalid configurations 0 , wallclock time =  303.26322317123413
+Integrator =  deterministic_adams_bashforth , step =  543 , invalid configurations 0 , wallclock time =  303.7901210784912
+Integrator =  deterministic_adams_bashforth , step =  544 , invalid configurations 0 , wallclock time =  304.50555062294006
+Integrator =  deterministic_adams_bashforth , step =  545 , invalid configurations 0 , wallclock time =  305.2596197128296
+Integrator =  deterministic_adams_bashforth , step =  546 , invalid configurations 0 , wallclock time =  306.028400182724
+Integrator =  deterministic_adams_bashforth , step =  547 , invalid configurations 0 , wallclock time =  306.5829951763153
+Integrator =  deterministic_adams_bashforth , step =  548 , invalid configurations 0 , wallclock time =  307.11939430236816
+Integrator =  deterministic_adams_bashforth , step =  549 , invalid configurations 0 , wallclock time =  307.6415467262268
+Integrator =  deterministic_adams_bashforth , step =  550 , invalid configurations 0 , wallclock time =  308.25064277648926
+Integrator =  deterministic_adams_bashforth , step =  551 , invalid configurations 0 , wallclock time =  308.8900833129883
+Integrator =  deterministic_adams_bashforth , step =  552 , invalid configurations 0 , wallclock time =  309.5024034976959
+Integrator =  deterministic_adams_bashforth , step =  553 , invalid configurations 0 , wallclock time =  310.02986335754395
+Integrator =  deterministic_adams_bashforth , step =  554 , invalid configurations 0 , wallclock time =  310.51423048973083
+Integrator =  deterministic_adams_bashforth , step =  555 , invalid configurations 0 , wallclock time =  310.9855065345764
+Integrator =  deterministic_adams_bashforth , step =  556 , invalid configurations 0 , wallclock time =  311.42854285240173
+Integrator =  deterministic_adams_bashforth , step =  557 , invalid configurations 0 , wallclock time =  311.9540295600891
+Integrator =  deterministic_adams_bashforth , step =  558 , invalid configurations 0 , wallclock time =  312.6652421951294
+Integrator =  deterministic_adams_bashforth , step =  559 , invalid configurations 0 , wallclock time =  313.19155502319336
+Integrator =  deterministic_adams_bashforth , step =  560 , invalid configurations 0 , wallclock time =  313.6316149234772
+Integrator =  deterministic_adams_bashforth , step =  561 , invalid configurations 0 , wallclock time =  314.104692697525
+Integrator =  deterministic_adams_bashforth , step =  562 , invalid configurations 0 , wallclock time =  314.59408831596375
+Integrator =  deterministic_adams_bashforth , step =  563 , invalid configurations 0 , wallclock time =  315.13082218170166
+Integrator =  deterministic_adams_bashforth , step =  564 , invalid configurations 0 , wallclock time =  315.7561354637146
+Integrator =  deterministic_adams_bashforth , step =  565 , invalid configurations 0 , wallclock time =  316.3689818382263
+Integrator =  deterministic_adams_bashforth , step =  566 , invalid configurations 0 , wallclock time =  316.93684244155884
+Integrator =  deterministic_adams_bashforth , step =  567 , invalid configurations 0 , wallclock time =  317.5372076034546
+Integrator =  deterministic_adams_bashforth , step =  568 , invalid configurations 0 , wallclock time =  318.140912771225
+Integrator =  deterministic_adams_bashforth , step =  569 , invalid configurations 0 , wallclock time =  318.77878046035767
+Integrator =  deterministic_adams_bashforth , step =  570 , invalid configurations 0 , wallclock time =  319.35473918914795
+Integrator =  deterministic_adams_bashforth , step =  571 , invalid configurations 0 , wallclock time =  319.98000955581665
+Integrator =  deterministic_adams_bashforth , step =  572 , invalid configurations 0 , wallclock time =  320.61962509155273
+Integrator =  deterministic_adams_bashforth , step =  573 , invalid configurations 0 , wallclock time =  321.32751274108887
+Integrator =  deterministic_adams_bashforth , step =  574 , invalid configurations 0 , wallclock time =  321.88033652305603
+Integrator =  deterministic_adams_bashforth , step =  575 , invalid configurations 0 , wallclock time =  322.38535141944885
+Integrator =  deterministic_adams_bashforth , step =  576 , invalid configurations 0 , wallclock time =  322.94707107543945
+Integrator =  deterministic_adams_bashforth , step =  577 , invalid configurations 0 , wallclock time =  323.57594299316406
+Integrator =  deterministic_adams_bashforth , step =  578 , invalid configurations 0 , wallclock time =  324.2495312690735
+Integrator =  deterministic_adams_bashforth , step =  579 , invalid configurations 0 , wallclock time =  324.84795665740967
+Integrator =  deterministic_adams_bashforth , step =  580 , invalid configurations 0 , wallclock time =  325.2861702442169
+Integrator =  deterministic_adams_bashforth , step =  581 , invalid configurations 0 , wallclock time =  325.7289443016052
+Integrator =  deterministic_adams_bashforth , step =  582 , invalid configurations 0 , wallclock time =  326.17512583732605
+Integrator =  deterministic_adams_bashforth , step =  583 , invalid configurations 0 , wallclock time =  326.62275409698486
+Integrator =  deterministic_adams_bashforth , step =  584 , invalid configurations 0 , wallclock time =  327.0638086795807
+Integrator =  deterministic_adams_bashforth , step =  585 , invalid configurations 0 , wallclock time =  327.63920068740845
+Integrator =  deterministic_adams_bashforth , step =  586 , invalid configurations 0 , wallclock time =  328.3425803184509
+Integrator =  deterministic_adams_bashforth , step =  587 , invalid configurations 0 , wallclock time =  328.83064460754395
+Integrator =  deterministic_adams_bashforth , step =  588 , invalid configurations 0 , wallclock time =  329.2675166130066
+Integrator =  deterministic_adams_bashforth , step =  589 , invalid configurations 0 , wallclock time =  329.7189517021179
+Integrator =  deterministic_adams_bashforth , step =  590 , invalid configurations 0 , wallclock time =  330.3052132129669
+Integrator =  deterministic_adams_bashforth , step =  591 , invalid configurations 0 , wallclock time =  330.9534659385681
+Integrator =  deterministic_adams_bashforth , step =  592 , invalid configurations 0 , wallclock time =  331.57890033721924
+Integrator =  deterministic_adams_bashforth , step =  593 , invalid configurations 0 , wallclock time =  332.2291467189789
+Integrator =  deterministic_adams_bashforth , step =  594 , invalid configurations 0 , wallclock time =  332.828595161438
+Integrator =  deterministic_adams_bashforth , step =  595 , invalid configurations 0 , wallclock time =  333.4175407886505
+Integrator =  deterministic_adams_bashforth , step =  596 , invalid configurations 0 , wallclock time =  334.0826668739319
+Integrator =  deterministic_adams_bashforth , step =  597 , invalid configurations 0 , wallclock time =  334.7808105945587
+Integrator =  deterministic_adams_bashforth , step =  598 , invalid configurations 0 , wallclock time =  335.510360956192
+Integrator =  deterministic_adams_bashforth , step =  599 , invalid configurations 0 , wallclock time =  336.1829662322998
+Integrator =  deterministic_adams_bashforth , step =  600 , invalid configurations 0 , wallclock time =  336.8427138328552
+Integrator =  deterministic_adams_bashforth , step =  601 , invalid configurations 0 , wallclock time =  337.3246793746948
+Integrator =  deterministic_adams_bashforth , step =  602 , invalid configurations 0 , wallclock time =  337.80218839645386
+Integrator =  deterministic_adams_bashforth , step =  603 , invalid configurations 0 , wallclock time =  338.4010491371155
+Integrator =  deterministic_adams_bashforth , step =  604 , invalid configurations 0 , wallclock time =  339.0812873840332
+Integrator =  deterministic_adams_bashforth , step =  605 , invalid configurations 0 , wallclock time =  339.7220633029938
+Integrator =  deterministic_adams_bashforth , step =  606 , invalid configurations 0 , wallclock time =  340.39622807502747
+Integrator =  deterministic_adams_bashforth , step =  607 , invalid configurations 0 , wallclock time =  341.0947813987732
+Integrator =  deterministic_adams_bashforth , step =  608 , invalid configurations 0 , wallclock time =  341.76740431785583
+Integrator =  deterministic_adams_bashforth , step =  609 , invalid configurations 0 , wallclock time =  342.41964864730835
+Integrator =  deterministic_adams_bashforth , step =  610 , invalid configurations 0 , wallclock time =  343.0320544242859
+Integrator =  deterministic_adams_bashforth , step =  611 , invalid configurations 0 , wallclock time =  343.7297115325928
+Integrator =  deterministic_adams_bashforth , step =  612 , invalid configurations 0 , wallclock time =  344.3659164905548
+Integrator =  deterministic_adams_bashforth , step =  613 , invalid configurations 0 , wallclock time =  344.97347259521484
+Integrator =  deterministic_adams_bashforth , step =  614 , invalid configurations 0 , wallclock time =  345.56803464889526
+Integrator =  deterministic_adams_bashforth , step =  615 , invalid configurations 0 , wallclock time =  346.1895716190338
+Integrator =  deterministic_adams_bashforth , step =  616 , invalid configurations 0 , wallclock time =  346.80679392814636
+Integrator =  deterministic_adams_bashforth , step =  617 , invalid configurations 0 , wallclock time =  347.46741938591003
+Integrator =  deterministic_adams_bashforth , step =  618 , invalid configurations 0 , wallclock time =  348.13038396835327
+Integrator =  deterministic_adams_bashforth , step =  619 , invalid configurations 0 , wallclock time =  348.76065015792847
+Integrator =  deterministic_adams_bashforth , step =  620 , invalid configurations 0 , wallclock time =  349.5044045448303
+Integrator =  deterministic_adams_bashforth , step =  621 , invalid configurations 0 , wallclock time =  350.13200187683105
+Integrator =  deterministic_adams_bashforth , step =  622 , invalid configurations 0 , wallclock time =  350.7319164276123
+Integrator =  deterministic_adams_bashforth , step =  623 , invalid configurations 0 , wallclock time =  351.32709765434265
+Integrator =  deterministic_adams_bashforth , step =  624 , invalid configurations 0 , wallclock time =  351.9773516654968
+Integrator =  deterministic_adams_bashforth , step =  625 , invalid configurations 0 , wallclock time =  352.6581196784973
+Integrator =  deterministic_adams_bashforth , step =  626 , invalid configurations 0 , wallclock time =  353.296594619751
+Integrator =  deterministic_adams_bashforth , step =  627 , invalid configurations 0 , wallclock time =  353.91303730010986
+Integrator =  deterministic_adams_bashforth , step =  628 , invalid configurations 0 , wallclock time =  354.55281710624695
+Integrator =  deterministic_adams_bashforth , step =  629 , invalid configurations 0 , wallclock time =  355.14463448524475
+Integrator =  deterministic_adams_bashforth , step =  630 , invalid configurations 0 , wallclock time =  355.8242642879486
+Integrator =  deterministic_adams_bashforth , step =  631 , invalid configurations 0 , wallclock time =  356.5385241508484
+Integrator =  deterministic_adams_bashforth , step =  632 , invalid configurations 0 , wallclock time =  357.3946068286896
+Integrator =  deterministic_adams_bashforth , step =  633 , invalid configurations 0 , wallclock time =  357.93214559555054
+Integrator =  deterministic_adams_bashforth , step =  634 , invalid configurations 0 , wallclock time =  358.48543977737427
+Integrator =  deterministic_adams_bashforth , step =  635 , invalid configurations 0 , wallclock time =  359.1635913848877
+Integrator =  deterministic_adams_bashforth , step =  636 , invalid configurations 0 , wallclock time =  359.72315740585327
+Integrator =  deterministic_adams_bashforth , step =  637 , invalid configurations 0 , wallclock time =  360.31796622276306
+Integrator =  deterministic_adams_bashforth , step =  638 , invalid configurations 0 , wallclock time =  360.96233224868774
+Integrator =  deterministic_adams_bashforth , step =  639 , invalid configurations 0 , wallclock time =  361.61663722991943
+Integrator =  deterministic_adams_bashforth , step =  640 , invalid configurations 0 , wallclock time =  362.2003149986267
+Integrator =  deterministic_adams_bashforth , step =  641 , invalid configurations 0 , wallclock time =  362.75552892684937
+Integrator =  deterministic_adams_bashforth , step =  642 , invalid configurations 0 , wallclock time =  363.29933047294617
+Integrator =  deterministic_adams_bashforth , step =  643 , invalid configurations 0 , wallclock time =  363.7971901893616
+Integrator =  deterministic_adams_bashforth , step =  644 , invalid configurations 0 , wallclock time =  364.50239062309265
+Integrator =  deterministic_adams_bashforth , step =  645 , invalid configurations 0 , wallclock time =  365.2620458602905
+Integrator =  deterministic_adams_bashforth , step =  646 , invalid configurations 0 , wallclock time =  366.0806875228882
+Integrator =  deterministic_adams_bashforth , step =  647 , invalid configurations 0 , wallclock time =  366.87151050567627
+Integrator =  deterministic_adams_bashforth , step =  648 , invalid configurations 0 , wallclock time =  367.674946308136
+Integrator =  deterministic_adams_bashforth , step =  649 , invalid configurations 0 , wallclock time =  368.54616928100586
+Integrator =  deterministic_adams_bashforth , step =  650 , invalid configurations 0 , wallclock time =  369.3595404624939
+Integrator =  deterministic_adams_bashforth , step =  651 , invalid configurations 0 , wallclock time =  369.9810447692871
+Integrator =  deterministic_adams_bashforth , step =  652 , invalid configurations 0 , wallclock time =  370.60545349121094
+Integrator =  deterministic_adams_bashforth , step =  653 , invalid configurations 0 , wallclock time =  371.25787448883057
+Integrator =  deterministic_adams_bashforth , step =  654 , invalid configurations 0 , wallclock time =  371.90609335899353
+Integrator =  deterministic_adams_bashforth , step =  655 , invalid configurations 0 , wallclock time =  372.5500268936157
+Integrator =  deterministic_adams_bashforth , step =  656 , invalid configurations 0 , wallclock time =  373.2370460033417
+Integrator =  deterministic_adams_bashforth , step =  657 , invalid configurations 0 , wallclock time =  374.14299988746643
+Integrator =  deterministic_adams_bashforth , step =  658 , invalid configurations 0 , wallclock time =  374.90150260925293
+Integrator =  deterministic_adams_bashforth , step =  659 , invalid configurations 0 , wallclock time =  375.6726973056793
+Integrator =  deterministic_adams_bashforth , step =  660 , invalid configurations 0 , wallclock time =  376.48432517051697
+Integrator =  deterministic_adams_bashforth , step =  661 , invalid configurations 0 , wallclock time =  377.35561084747314
+Integrator =  deterministic_adams_bashforth , step =  662 , invalid configurations 0 , wallclock time =  378.093820810318
+Integrator =  deterministic_adams_bashforth , step =  663 , invalid configurations 0 , wallclock time =  378.91269183158875
+Integrator =  deterministic_adams_bashforth , step =  664 , invalid configurations 0 , wallclock time =  379.82596135139465
+Integrator =  deterministic_adams_bashforth , step =  665 , invalid configurations 0 , wallclock time =  380.37142610549927
+Integrator =  deterministic_adams_bashforth , step =  666 , invalid configurations 0 , wallclock time =  380.8738076686859
+Integrator =  deterministic_adams_bashforth , step =  667 , invalid configurations 0 , wallclock time =  381.5175812244415
+Integrator =  deterministic_adams_bashforth , step =  668 , invalid configurations 0 , wallclock time =  382.14414262771606
+Integrator =  deterministic_adams_bashforth , step =  669 , invalid configurations 0 , wallclock time =  382.7612724304199
+Integrator =  deterministic_adams_bashforth , step =  670 , invalid configurations 0 , wallclock time =  383.372474193573
+Integrator =  deterministic_adams_bashforth , step =  671 , invalid configurations 0 , wallclock time =  384.0265293121338
+Integrator =  deterministic_adams_bashforth , step =  672 , invalid configurations 0 , wallclock time =  384.6615641117096
+Integrator =  deterministic_adams_bashforth , step =  673 , invalid configurations 0 , wallclock time =  385.27150416374207
+Integrator =  deterministic_adams_bashforth , step =  674 , invalid configurations 0 , wallclock time =  385.948513507843
+Integrator =  deterministic_adams_bashforth , step =  675 , invalid configurations 0 , wallclock time =  386.59742307662964
+Integrator =  deterministic_adams_bashforth , step =  676 , invalid configurations 0 , wallclock time =  387.2112855911255
+Integrator =  deterministic_adams_bashforth , step =  677 , invalid configurations 0 , wallclock time =  388.10556268692017
+Integrator =  deterministic_adams_bashforth , step =  678 , invalid configurations 0 , wallclock time =  388.7684168815613
+Integrator =  deterministic_adams_bashforth , step =  679 , invalid configurations 0 , wallclock time =  389.44460582733154
+Integrator =  deterministic_adams_bashforth , step =  680 , invalid configurations 0 , wallclock time =  390.11383509635925
+Integrator =  deterministic_adams_bashforth , step =  681 , invalid configurations 0 , wallclock time =  390.7131254673004
+Integrator =  deterministic_adams_bashforth , step =  682 , invalid configurations 0 , wallclock time =  391.401132106781
+Integrator =  deterministic_adams_bashforth , step =  683 , invalid configurations 0 , wallclock time =  392.0599548816681
+Integrator =  deterministic_adams_bashforth , step =  684 , invalid configurations 0 , wallclock time =  392.6974914073944
+Integrator =  deterministic_adams_bashforth , step =  685 , invalid configurations 0 , wallclock time =  393.3513798713684
+Integrator =  deterministic_adams_bashforth , step =  686 , invalid configurations 0 , wallclock time =  394.03149938583374
+Integrator =  deterministic_adams_bashforth , step =  687 , invalid configurations 0 , wallclock time =  394.71037244796753
+Integrator =  deterministic_adams_bashforth , step =  688 , invalid configurations 0 , wallclock time =  395.37488651275635
+Integrator =  deterministic_adams_bashforth , step =  689 , invalid configurations 0 , wallclock time =  396.00301122665405
+Integrator =  deterministic_adams_bashforth , step =  690 , invalid configurations 0 , wallclock time =  396.7058494091034
+Integrator =  deterministic_adams_bashforth , step =  691 , invalid configurations 0 , wallclock time =  397.3957667350769
+Integrator =  deterministic_adams_bashforth , step =  692 , invalid configurations 0 , wallclock time =  398.0457248687744
+Integrator =  deterministic_adams_bashforth , step =  693 , invalid configurations 0 , wallclock time =  398.63029527664185
+Integrator =  deterministic_adams_bashforth , step =  694 , invalid configurations 0 , wallclock time =  399.2729525566101
+Integrator =  deterministic_adams_bashforth , step =  695 , invalid configurations 0 , wallclock time =  399.9281961917877
+Integrator =  deterministic_adams_bashforth , step =  696 , invalid configurations 0 , wallclock time =  400.5506372451782
+Integrator =  deterministic_adams_bashforth , step =  697 , invalid configurations 0 , wallclock time =  401.2081208229065
+Integrator =  deterministic_adams_bashforth , step =  698 , invalid configurations 0 , wallclock time =  401.91864466667175
+Integrator =  deterministic_adams_bashforth , step =  699 , invalid configurations 0 , wallclock time =  402.5694167613983
+Integrator =  deterministic_adams_bashforth , step =  700 , invalid configurations 0 , wallclock time =  403.1933491230011
+Integrator =  deterministic_adams_bashforth , step =  701 , invalid configurations 0 , wallclock time =  404.02745509147644
+Integrator =  deterministic_adams_bashforth , step =  702 , invalid configurations 0 , wallclock time =  404.72647404670715
+Integrator =  deterministic_adams_bashforth , step =  703 , invalid configurations 0 , wallclock time =  405.35541796684265
+Integrator =  deterministic_adams_bashforth , step =  704 , invalid configurations 0 , wallclock time =  405.9108200073242
+Integrator =  deterministic_adams_bashforth , step =  705 , invalid configurations 0 , wallclock time =  406.4481363296509
+Integrator =  deterministic_adams_bashforth , step =  706 , invalid configurations 0 , wallclock time =  407.07157611846924
+Integrator =  deterministic_adams_bashforth , step =  707 , invalid configurations 0 , wallclock time =  407.7186062335968
+Integrator =  deterministic_adams_bashforth , step =  708 , invalid configurations 0 , wallclock time =  408.38122725486755
+Integrator =  deterministic_adams_bashforth , step =  709 , invalid configurations 0 , wallclock time =  409.04258584976196
+Integrator =  deterministic_adams_bashforth , step =  710 , invalid configurations 0 , wallclock time =  409.6430084705353
+Integrator =  deterministic_adams_bashforth , step =  711 , invalid configurations 0 , wallclock time =  410.2983968257904
+Integrator =  deterministic_adams_bashforth , step =  712 , invalid configurations 0 , wallclock time =  410.946617603302
+Integrator =  deterministic_adams_bashforth , step =  713 , invalid configurations 0 , wallclock time =  411.5651433467865
+Integrator =  deterministic_adams_bashforth , step =  714 , invalid configurations 0 , wallclock time =  412.28298926353455
+Integrator =  deterministic_adams_bashforth , step =  715 , invalid configurations 0 , wallclock time =  412.91729044914246
+Integrator =  deterministic_adams_bashforth , step =  716 , invalid configurations 0 , wallclock time =  413.53502583503723
+Integrator =  deterministic_adams_bashforth , step =  717 , invalid configurations 0 , wallclock time =  414.1544680595398
+Integrator =  deterministic_adams_bashforth , step =  718 , invalid configurations 0 , wallclock time =  414.9234392642975
+Integrator =  deterministic_adams_bashforth , step =  719 , invalid configurations 0 , wallclock time =  415.48232412338257
+Integrator =  deterministic_adams_bashforth , step =  720 , invalid configurations 0 , wallclock time =  415.95458698272705
+Integrator =  deterministic_adams_bashforth , step =  721 , invalid configurations 0 , wallclock time =  416.49901008605957
+Integrator =  deterministic_adams_bashforth , step =  722 , invalid configurations 0 , wallclock time =  417.10475063323975
+Integrator =  deterministic_adams_bashforth , step =  723 , invalid configurations 0 , wallclock time =  417.7305681705475
+Integrator =  deterministic_adams_bashforth , step =  724 , invalid configurations 0 , wallclock time =  418.36855459213257
+Integrator =  deterministic_adams_bashforth , step =  725 , invalid configurations 0 , wallclock time =  419.0149712562561
+Integrator =  deterministic_adams_bashforth , step =  726 , invalid configurations 0 , wallclock time =  419.6796395778656
+Integrator =  deterministic_adams_bashforth , step =  727 , invalid configurations 0 , wallclock time =  420.336790561676
+Integrator =  deterministic_adams_bashforth , step =  728 , invalid configurations 0 , wallclock time =  421.00670409202576
+Integrator =  deterministic_adams_bashforth , step =  729 , invalid configurations 0 , wallclock time =  421.67174339294434
+Integrator =  deterministic_adams_bashforth , step =  730 , invalid configurations 0 , wallclock time =  422.3385715484619
+Integrator =  deterministic_adams_bashforth , step =  731 , invalid configurations 0 , wallclock time =  422.9657235145569
+Integrator =  deterministic_adams_bashforth , step =  732 , invalid configurations 0 , wallclock time =  423.59251832962036
+Integrator =  deterministic_adams_bashforth , step =  733 , invalid configurations 0 , wallclock time =  424.21896386146545
+Integrator =  deterministic_adams_bashforth , step =  734 , invalid configurations 0 , wallclock time =  424.8517189025879
+Integrator =  deterministic_adams_bashforth , step =  735 , invalid configurations 0 , wallclock time =  425.5845856666565
+Integrator =  deterministic_adams_bashforth , step =  736 , invalid configurations 0 , wallclock time =  426.26657605171204
+Integrator =  deterministic_adams_bashforth , step =  737 , invalid configurations 0 , wallclock time =  426.9422450065613
+Integrator =  deterministic_adams_bashforth , step =  738 , invalid configurations 0 , wallclock time =  427.57959365844727
+Integrator =  deterministic_adams_bashforth , step =  739 , invalid configurations 0 , wallclock time =  428.31304717063904
+Integrator =  deterministic_adams_bashforth , step =  740 , invalid configurations 0 , wallclock time =  429.0214293003082
+Integrator =  deterministic_adams_bashforth , step =  741 , invalid configurations 0 , wallclock time =  429.64681577682495
+Integrator =  deterministic_adams_bashforth , step =  742 , invalid configurations 0 , wallclock time =  430.2609667778015
+Integrator =  deterministic_adams_bashforth , step =  743 , invalid configurations 0 , wallclock time =  430.92209482192993
+Integrator =  deterministic_adams_bashforth , step =  744 , invalid configurations 0 , wallclock time =  431.55309295654297
+Integrator =  deterministic_adams_bashforth , step =  745 , invalid configurations 0 , wallclock time =  432.41535449028015
+Integrator =  deterministic_adams_bashforth , step =  746 , invalid configurations 0 , wallclock time =  433.3272407054901
+Integrator =  deterministic_adams_bashforth , step =  747 , invalid configurations 0 , wallclock time =  434.1941764354706
+Integrator =  deterministic_adams_bashforth , step =  748 , invalid configurations 0 , wallclock time =  435.08203125
+Integrator =  deterministic_adams_bashforth , step =  749 , invalid configurations 0 , wallclock time =  435.8624849319458
+Integrator =  deterministic_adams_bashforth , step =  750 , invalid configurations 0 , wallclock time =  436.6637177467346
+Integrator =  deterministic_adams_bashforth , step =  751 , invalid configurations 0 , wallclock time =  437.2190639972687
+Integrator =  deterministic_adams_bashforth , step =  752 , invalid configurations 0 , wallclock time =  437.8122420310974
+Integrator =  deterministic_adams_bashforth , step =  753 , invalid configurations 0 , wallclock time =  438.38094830513
+Integrator =  deterministic_adams_bashforth , step =  754 , invalid configurations 0 , wallclock time =  439.00593400001526
+Integrator =  deterministic_adams_bashforth , step =  755 , invalid configurations 0 , wallclock time =  439.7711675167084
+Integrator =  deterministic_adams_bashforth , step =  756 , invalid configurations 0 , wallclock time =  440.54959177970886
+Integrator =  deterministic_adams_bashforth , step =  757 , invalid configurations 0 , wallclock time =  441.45678973197937
+Integrator =  deterministic_adams_bashforth , step =  758 , invalid configurations 0 , wallclock time =  442.35665106773376
+Integrator =  deterministic_adams_bashforth , step =  759 , invalid configurations 0 , wallclock time =  443.147488117218
+Integrator =  deterministic_adams_bashforth , step =  760 , invalid configurations 0 , wallclock time =  443.9380478858948
+Integrator =  deterministic_adams_bashforth , step =  761 , invalid configurations 0 , wallclock time =  444.8114957809448
+Integrator =  deterministic_adams_bashforth , step =  762 , invalid configurations 0 , wallclock time =  445.4073224067688
+Integrator =  deterministic_adams_bashforth , step =  763 , invalid configurations 0 , wallclock time =  446.06121730804443
+Integrator =  deterministic_adams_bashforth , step =  764 , invalid configurations 0 , wallclock time =  446.7052788734436
+Integrator =  deterministic_adams_bashforth , step =  765 , invalid configurations 0 , wallclock time =  447.3874614238739
+Integrator =  deterministic_adams_bashforth , step =  766 , invalid configurations 0 , wallclock time =  448.04304122924805
+Integrator =  deterministic_adams_bashforth , step =  767 , invalid configurations 0 , wallclock time =  448.9519944190979
+Integrator =  deterministic_adams_bashforth , step =  768 , invalid configurations 0 , wallclock time =  449.7311842441559
+Integrator =  deterministic_adams_bashforth , step =  769 , invalid configurations 0 , wallclock time =  450.25497937202454
+Integrator =  deterministic_adams_bashforth , step =  770 , invalid configurations 0 , wallclock time =  450.8334047794342
+Integrator =  deterministic_adams_bashforth , step =  771 , invalid configurations 0 , wallclock time =  451.47452330589294
+Integrator =  deterministic_adams_bashforth , step =  772 , invalid configurations 0 , wallclock time =  452.21018838882446
+Integrator =  deterministic_adams_bashforth , step =  773 , invalid configurations 0 , wallclock time =  452.8625864982605
+Integrator =  deterministic_adams_bashforth , step =  774 , invalid configurations 0 , wallclock time =  453.6948525905609
+Integrator =  deterministic_adams_bashforth , step =  775 , invalid configurations 0 , wallclock time =  454.50271248817444
+Integrator =  deterministic_adams_bashforth , step =  776 , invalid configurations 0 , wallclock time =  455.3172504901886
+Integrator =  deterministic_adams_bashforth , step =  777 , invalid configurations 0 , wallclock time =  456.2284359931946
+Integrator =  deterministic_adams_bashforth , step =  778 , invalid configurations 0 , wallclock time =  457.1257562637329
+Integrator =  deterministic_adams_bashforth , step =  779 , invalid configurations 0 , wallclock time =  457.92453241348267
+Integrator =  deterministic_adams_bashforth , step =  780 , invalid configurations 0 , wallclock time =  458.72913813591003
+Integrator =  deterministic_adams_bashforth , step =  781 , invalid configurations 0 , wallclock time =  459.3275158405304
+Integrator =  deterministic_adams_bashforth , step =  782 , invalid configurations 0 , wallclock time =  459.96378207206726
+Integrator =  deterministic_adams_bashforth , step =  783 , invalid configurations 0 , wallclock time =  460.61104226112366
+Integrator =  deterministic_adams_bashforth , step =  784 , invalid configurations 0 , wallclock time =  461.2367808818817
+Integrator =  deterministic_adams_bashforth , step =  785 , invalid configurations 0 , wallclock time =  461.90920329093933
+Integrator =  deterministic_adams_bashforth , step =  786 , invalid configurations 0 , wallclock time =  462.5421736240387
+Integrator =  deterministic_adams_bashforth , step =  787 , invalid configurations 0 , wallclock time =  463.3157477378845
+Integrator =  deterministic_adams_bashforth , step =  788 , invalid configurations 0 , wallclock time =  464.1430718898773
+Integrator =  deterministic_adams_bashforth , step =  789 , invalid configurations 0 , wallclock time =  464.75409030914307
+Integrator =  deterministic_adams_bashforth , step =  790 , invalid configurations 0 , wallclock time =  465.40261459350586
+Integrator =  deterministic_adams_bashforth , step =  791 , invalid configurations 0 , wallclock time =  466.0835864543915
+Integrator =  deterministic_adams_bashforth , step =  792 , invalid configurations 0 , wallclock time =  466.8833258152008
+Integrator =  deterministic_adams_bashforth , step =  793 , invalid configurations 0 , wallclock time =  467.6293303966522
+Integrator =  deterministic_adams_bashforth , step =  794 , invalid configurations 0 , wallclock time =  468.44624280929565
+Integrator =  deterministic_adams_bashforth , step =  795 , invalid configurations 0 , wallclock time =  469.31218242645264
+Integrator =  deterministic_adams_bashforth , step =  796 , invalid configurations 0 , wallclock time =  470.30700874328613
+Integrator =  deterministic_adams_bashforth , step =  797 , invalid configurations 0 , wallclock time =  470.8607566356659
+Integrator =  deterministic_adams_bashforth , step =  798 , invalid configurations 0 , wallclock time =  471.3850474357605
+Integrator =  deterministic_adams_bashforth , step =  799 , invalid configurations 0 , wallclock time =  471.9155008792877
+Integrator =  deterministic_adams_bashforth , step =  800 , invalid configurations 0 , wallclock time =  472.422324180603
+Integrator =  deterministic_adams_bashforth , step =  801 , invalid configurations 0 , wallclock time =  473.062379360199
+Integrator =  deterministic_adams_bashforth , step =  802 , invalid configurations 0 , wallclock time =  473.84977746009827
+Integrator =  deterministic_adams_bashforth , step =  803 , invalid configurations 0 , wallclock time =  474.33124566078186
+Integrator =  deterministic_adams_bashforth , step =  804 , invalid configurations 0 , wallclock time =  474.9795913696289
+Integrator =  deterministic_adams_bashforth , step =  805 , invalid configurations 0 , wallclock time =  475.6663212776184
+Integrator =  deterministic_adams_bashforth , step =  806 , invalid configurations 0 , wallclock time =  476.53780221939087
+Integrator =  deterministic_adams_bashforth , step =  807 , invalid configurations 0 , wallclock time =  477.3706338405609
+Integrator =  deterministic_adams_bashforth , step =  808 , invalid configurations 0 , wallclock time =  478.13470005989075
+Integrator =  deterministic_adams_bashforth , step =  809 , invalid configurations 0 , wallclock time =  478.9989275932312
+Integrator =  deterministic_adams_bashforth , step =  810 , invalid configurations 0 , wallclock time =  479.7972915172577
+Integrator =  deterministic_adams_bashforth , step =  811 , invalid configurations 0 , wallclock time =  480.3545649051666
+Integrator =  deterministic_adams_bashforth , step =  812 , invalid configurations 0 , wallclock time =  480.9207592010498
+Integrator =  deterministic_adams_bashforth , step =  813 , invalid configurations 0 , wallclock time =  481.4848871231079
+Integrator =  deterministic_adams_bashforth , step =  814 , invalid configurations 0 , wallclock time =  482.1410131454468
+Integrator =  deterministic_adams_bashforth , step =  815 , invalid configurations 0 , wallclock time =  482.76699233055115
+Integrator =  deterministic_adams_bashforth , step =  816 , invalid configurations 0 , wallclock time =  483.4536409378052
+Integrator =  deterministic_adams_bashforth , step =  817 , invalid configurations 0 , wallclock time =  484.0925040245056
+Integrator =  deterministic_adams_bashforth , step =  818 , invalid configurations 0 , wallclock time =  484.741806268692
+Integrator =  deterministic_adams_bashforth , step =  819 , invalid configurations 0 , wallclock time =  485.43320298194885
+Integrator =  deterministic_adams_bashforth , step =  820 , invalid configurations 0 , wallclock time =  486.14773631095886
+Integrator =  deterministic_adams_bashforth , step =  821 , invalid configurations 0 , wallclock time =  486.9394335746765
+Integrator =  deterministic_adams_bashforth , step =  822 , invalid configurations 0 , wallclock time =  487.719379901886
+Integrator =  deterministic_adams_bashforth , step =  823 , invalid configurations 0 , wallclock time =  488.44374442100525
+Integrator =  deterministic_adams_bashforth , step =  824 , invalid configurations 0 , wallclock time =  489.2352797985077
+Integrator =  deterministic_adams_bashforth , step =  825 , invalid configurations 0 , wallclock time =  490.0354571342468
+Integrator =  deterministic_adams_bashforth , step =  826 , invalid configurations 0 , wallclock time =  490.94398975372314
+Integrator =  deterministic_adams_bashforth , step =  827 , invalid configurations 0 , wallclock time =  491.7841718196869
+Integrator =  deterministic_adams_bashforth , step =  828 , invalid configurations 0 , wallclock time =  492.60363578796387
+Integrator =  deterministic_adams_bashforth , step =  829 , invalid configurations 0 , wallclock time =  493.41352581977844
+Integrator =  deterministic_adams_bashforth , step =  830 , invalid configurations 0 , wallclock time =  494.29155826568604
+Integrator =  deterministic_adams_bashforth , step =  831 , invalid configurations 0 , wallclock time =  495.0851423740387
+Integrator =  deterministic_adams_bashforth , step =  832 , invalid configurations 0 , wallclock time =  495.814977645874
+Integrator =  deterministic_adams_bashforth , step =  833 , invalid configurations 0 , wallclock time =  496.38224148750305
+Integrator =  deterministic_adams_bashforth , step =  834 , invalid configurations 0 , wallclock time =  496.94296646118164
+Integrator =  deterministic_adams_bashforth , step =  835 , invalid configurations 0 , wallclock time =  497.65123772621155
+Integrator =  deterministic_adams_bashforth , step =  836 , invalid configurations 0 , wallclock time =  498.4495565891266
+Integrator =  deterministic_adams_bashforth , step =  837 , invalid configurations 0 , wallclock time =  499.2521433830261
+Integrator =  deterministic_adams_bashforth , step =  838 , invalid configurations 0 , wallclock time =  500.0348017215729
+Integrator =  deterministic_adams_bashforth , step =  839 , invalid configurations 0 , wallclock time =  500.8869686126709
+Integrator =  deterministic_adams_bashforth , step =  840 , invalid configurations 0 , wallclock time =  501.71751165390015
+Integrator =  deterministic_adams_bashforth , step =  841 , invalid configurations 0 , wallclock time =  502.5336275100708
+Integrator =  deterministic_adams_bashforth , step =  842 , invalid configurations 0 , wallclock time =  503.3720667362213
+Integrator =  deterministic_adams_bashforth , step =  843 , invalid configurations 0 , wallclock time =  504.0572247505188
+Integrator =  deterministic_adams_bashforth , step =  844 , invalid configurations 0 , wallclock time =  504.7805645465851
+Integrator =  deterministic_adams_bashforth , step =  845 , invalid configurations 0 , wallclock time =  505.6176972389221
+Integrator =  deterministic_adams_bashforth , step =  846 , invalid configurations 0 , wallclock time =  506.41716265678406
+Integrator =  deterministic_adams_bashforth , step =  847 , invalid configurations 0 , wallclock time =  507.2627286911011
+Integrator =  deterministic_adams_bashforth , step =  848 , invalid configurations 0 , wallclock time =  508.07857847213745
+Integrator =  deterministic_adams_bashforth , step =  849 , invalid configurations 0 , wallclock time =  508.6034986972809
+Integrator =  deterministic_adams_bashforth , step =  850 , invalid configurations 0 , wallclock time =  509.1024260520935
+Integrator =  deterministic_adams_bashforth , step =  851 , invalid configurations 0 , wallclock time =  509.57702469825745
+Integrator =  deterministic_adams_bashforth , step =  852 , invalid configurations 0 , wallclock time =  510.20931100845337
+Integrator =  deterministic_adams_bashforth , step =  853 , invalid configurations 0 , wallclock time =  510.8684618473053
+Integrator =  deterministic_adams_bashforth , step =  854 , invalid configurations 0 , wallclock time =  511.52580976486206
+Integrator =  deterministic_adams_bashforth , step =  855 , invalid configurations 0 , wallclock time =  512.2054486274719
+Integrator =  deterministic_adams_bashforth , step =  856 , invalid configurations 0 , wallclock time =  512.8562874794006
+Integrator =  deterministic_adams_bashforth , step =  857 , invalid configurations 0 , wallclock time =  513.4959597587585
+Integrator =  deterministic_adams_bashforth , step =  858 , invalid configurations 0 , wallclock time =  514.1590187549591
+Integrator =  deterministic_adams_bashforth , step =  859 , invalid configurations 0 , wallclock time =  514.8082664012909
+Integrator =  deterministic_adams_bashforth , step =  860 , invalid configurations 0 , wallclock time =  515.4838728904724
+Integrator =  deterministic_adams_bashforth , step =  861 , invalid configurations 0 , wallclock time =  516.1331925392151
+Integrator =  deterministic_adams_bashforth , step =  862 , invalid configurations 0 , wallclock time =  516.74627161026
+Integrator =  deterministic_adams_bashforth , step =  863 , invalid configurations 0 , wallclock time =  517.4788269996643
+Integrator =  deterministic_adams_bashforth , step =  864 , invalid configurations 0 , wallclock time =  518.1244406700134
+Integrator =  deterministic_adams_bashforth , step =  865 , invalid configurations 0 , wallclock time =  518.8041033744812
+Integrator =  deterministic_adams_bashforth , step =  866 , invalid configurations 0 , wallclock time =  519.4235999584198
+Integrator =  deterministic_adams_bashforth , step =  867 , invalid configurations 0 , wallclock time =  520.0367159843445
+Integrator =  deterministic_adams_bashforth , step =  868 , invalid configurations 0 , wallclock time =  520.6313183307648
+Integrator =  deterministic_adams_bashforth , step =  869 , invalid configurations 0 , wallclock time =  521.2291350364685
+Integrator =  deterministic_adams_bashforth , step =  870 , invalid configurations 0 , wallclock time =  521.845362663269
+Integrator =  deterministic_adams_bashforth , step =  871 , invalid configurations 0 , wallclock time =  522.4654684066772
+Integrator =  deterministic_adams_bashforth , step =  872 , invalid configurations 0 , wallclock time =  523.0699377059937
+Integrator =  deterministic_adams_bashforth , step =  873 , invalid configurations 0 , wallclock time =  523.912145614624
+Integrator =  deterministic_adams_bashforth , step =  874 , invalid configurations 0 , wallclock time =  524.7391269207001
+Integrator =  deterministic_adams_bashforth , step =  875 , invalid configurations 0 , wallclock time =  525.540278673172
+Integrator =  deterministic_adams_bashforth , step =  876 , invalid configurations 0 , wallclock time =  526.0897958278656
+Integrator =  deterministic_adams_bashforth , step =  877 , invalid configurations 0 , wallclock time =  526.6661739349365
+Integrator =  deterministic_adams_bashforth , step =  878 , invalid configurations 0 , wallclock time =  527.1946437358856
+Integrator =  deterministic_adams_bashforth , step =  879 , invalid configurations 0 , wallclock time =  527.8785214424133
+Integrator =  deterministic_adams_bashforth , step =  880 , invalid configurations 0 , wallclock time =  528.4407932758331
+Integrator =  deterministic_adams_bashforth , step =  881 , invalid configurations 0 , wallclock time =  529.0634436607361
+Integrator =  deterministic_adams_bashforth , step =  882 , invalid configurations 0 , wallclock time =  529.7415194511414
+Integrator =  deterministic_adams_bashforth , step =  883 , invalid configurations 0 , wallclock time =  530.3870403766632
+Integrator =  deterministic_adams_bashforth , step =  884 , invalid configurations 0 , wallclock time =  531.028491973877
+Integrator =  deterministic_adams_bashforth , step =  885 , invalid configurations 0 , wallclock time =  531.6659829616547
+Integrator =  deterministic_adams_bashforth , step =  886 , invalid configurations 0 , wallclock time =  532.341616153717
+Integrator =  deterministic_adams_bashforth , step =  887 , invalid configurations 0 , wallclock time =  532.9847161769867
+Integrator =  deterministic_adams_bashforth , step =  888 , invalid configurations 0 , wallclock time =  533.6340236663818
+Integrator =  deterministic_adams_bashforth , step =  889 , invalid configurations 0 , wallclock time =  534.3041968345642
+Integrator =  deterministic_adams_bashforth , step =  890 , invalid configurations 0 , wallclock time =  534.942839384079
+Integrator =  deterministic_adams_bashforth , step =  891 , invalid configurations 0 , wallclock time =  535.5257804393768
+Integrator =  deterministic_adams_bashforth , step =  892 , invalid configurations 0 , wallclock time =  536.2571969032288
+Integrator =  deterministic_adams_bashforth , step =  893 , invalid configurations 0 , wallclock time =  537.0483300685883
+Integrator =  deterministic_adams_bashforth , step =  894 , invalid configurations 0 , wallclock time =  537.7817089557648
+Integrator =  deterministic_adams_bashforth , step =  895 , invalid configurations 0 , wallclock time =  538.5512776374817
+Integrator =  deterministic_adams_bashforth , step =  896 , invalid configurations 0 , wallclock time =  539.3297076225281
+Integrator =  deterministic_adams_bashforth , step =  897 , invalid configurations 0 , wallclock time =  540.2015376091003
+Integrator =  deterministic_adams_bashforth , step =  898 , invalid configurations 0 , wallclock time =  540.9965398311615
+Integrator =  deterministic_adams_bashforth , step =  899 , invalid configurations 0 , wallclock time =  541.5153908729553
+Integrator =  deterministic_adams_bashforth , step =  900 , invalid configurations 0 , wallclock time =  542.0484683513641
+Integrator =  deterministic_adams_bashforth , step =  901 , invalid configurations 0 , wallclock time =  542.6036942005157
+Integrator =  deterministic_adams_bashforth , step =  902 , invalid configurations 0 , wallclock time =  543.2802169322968
+Integrator =  deterministic_adams_bashforth , step =  903 , invalid configurations 0 , wallclock time =  543.9638235569
+Integrator =  deterministic_adams_bashforth , step =  904 , invalid configurations 0 , wallclock time =  544.7145164012909
+Integrator =  deterministic_adams_bashforth , step =  905 , invalid configurations 0 , wallclock time =  545.5032985210419
+Integrator =  deterministic_adams_bashforth , step =  906 , invalid configurations 0 , wallclock time =  546.2468638420105
+Integrator =  deterministic_adams_bashforth , step =  907 , invalid configurations 0 , wallclock time =  546.8155798912048
+Integrator =  deterministic_adams_bashforth , step =  908 , invalid configurations 0 , wallclock time =  547.3739814758301
+Integrator =  deterministic_adams_bashforth , step =  909 , invalid configurations 0 , wallclock time =  547.9230966567993
+Integrator =  deterministic_adams_bashforth , step =  910 , invalid configurations 0 , wallclock time =  548.4471244812012
+Integrator =  deterministic_adams_bashforth , step =  911 , invalid configurations 0 , wallclock time =  549.1727426052094
+Integrator =  deterministic_adams_bashforth , step =  912 , invalid configurations 0 , wallclock time =  549.9888043403625
+Integrator =  deterministic_adams_bashforth , step =  913 , invalid configurations 0 , wallclock time =  550.7688779830933
+Integrator =  deterministic_adams_bashforth , step =  914 , invalid configurations 0 , wallclock time =  551.4429957866669
+Integrator =  deterministic_adams_bashforth , step =  915 , invalid configurations 0 , wallclock time =  552.1323425769806
+Integrator =  deterministic_adams_bashforth , step =  916 , invalid configurations 0 , wallclock time =  552.7026515007019
+Integrator =  deterministic_adams_bashforth , step =  917 , invalid configurations 0 , wallclock time =  553.2914855480194
+Integrator =  deterministic_adams_bashforth , step =  918 , invalid configurations 0 , wallclock time =  553.956780910492
+Integrator =  deterministic_adams_bashforth , step =  919 , invalid configurations 0 , wallclock time =  554.6022255420685
+Integrator =  deterministic_adams_bashforth , step =  920 , invalid configurations 0 , wallclock time =  555.2851331233978
+Integrator =  deterministic_adams_bashforth , step =  921 , invalid configurations 0 , wallclock time =  556.0022540092468
+Integrator =  deterministic_adams_bashforth , step =  922 , invalid configurations 0 , wallclock time =  556.8312418460846
+Integrator =  deterministic_adams_bashforth , step =  923 , invalid configurations 0 , wallclock time =  557.5165388584137
+Integrator =  deterministic_adams_bashforth , step =  924 , invalid configurations 0 , wallclock time =  558.1675336360931
+Integrator =  deterministic_adams_bashforth , step =  925 , invalid configurations 0 , wallclock time =  558.7973113059998
+Integrator =  deterministic_adams_bashforth , step =  926 , invalid configurations 0 , wallclock time =  559.4552798271179
+Integrator =  deterministic_adams_bashforth , step =  927 , invalid configurations 0 , wallclock time =  560.1192045211792
+Integrator =  deterministic_adams_bashforth , step =  928 , invalid configurations 0 , wallclock time =  560.7959117889404
+Integrator =  deterministic_adams_bashforth , step =  929 , invalid configurations 0 , wallclock time =  561.45068359375
+Integrator =  deterministic_adams_bashforth , step =  930 , invalid configurations 0 , wallclock time =  562.119194984436
+Integrator =  deterministic_adams_bashforth , step =  931 , invalid configurations 0 , wallclock time =  562.748183965683
+Integrator =  deterministic_adams_bashforth , step =  932 , invalid configurations 0 , wallclock time =  563.3790349960327
+Integrator =  deterministic_adams_bashforth , step =  933 , invalid configurations 0 , wallclock time =  564.0845754146576
+Integrator =  deterministic_adams_bashforth , step =  934 , invalid configurations 0 , wallclock time =  564.7387561798096
+Integrator =  deterministic_adams_bashforth , step =  935 , invalid configurations 0 , wallclock time =  565.3592805862427
+Integrator =  deterministic_adams_bashforth , step =  936 , invalid configurations 0 , wallclock time =  566.1225488185883
+Integrator =  deterministic_adams_bashforth , step =  937 , invalid configurations 0 , wallclock time =  566.6177253723145
+Integrator =  deterministic_adams_bashforth , step =  938 , invalid configurations 0 , wallclock time =  567.2239189147949
+Integrator =  deterministic_adams_bashforth , step =  939 , invalid configurations 0 , wallclock time =  567.7919919490814
+Integrator =  deterministic_adams_bashforth , step =  940 , invalid configurations 0 , wallclock time =  568.4846212863922
+Integrator =  deterministic_adams_bashforth , step =  941 , invalid configurations 0 , wallclock time =  569.3273434638977
+Integrator =  deterministic_adams_bashforth , step =  942 , invalid configurations 0 , wallclock time =  570.16859126091
+Integrator =  deterministic_adams_bashforth , step =  943 , invalid configurations 0 , wallclock time =  570.9075751304626
+Integrator =  deterministic_adams_bashforth , step =  944 , invalid configurations 0 , wallclock time =  571.6612124443054
+Integrator =  deterministic_adams_bashforth , step =  945 , invalid configurations 0 , wallclock time =  572.2189872264862
+Integrator =  deterministic_adams_bashforth , step =  946 , invalid configurations 0 , wallclock time =  572.9252383708954
+Integrator =  deterministic_adams_bashforth , step =  947 , invalid configurations 0 , wallclock time =  573.5752725601196
+Integrator =  deterministic_adams_bashforth , step =  948 , invalid configurations 0 , wallclock time =  574.3900833129883
+Integrator =  deterministic_adams_bashforth , step =  949 , invalid configurations 0 , wallclock time =  575.149736404419
+Integrator =  deterministic_adams_bashforth , step =  950 , invalid configurations 0 , wallclock time =  575.9203944206238
+Integrator =  deterministic_adams_bashforth , step =  951 , invalid configurations 0 , wallclock time =  576.7808418273926
+Integrator =  deterministic_adams_bashforth , step =  952 , invalid configurations 0 , wallclock time =  577.5635411739349
+Integrator =  deterministic_adams_bashforth , step =  953 , invalid configurations 0 , wallclock time =  578.4069921970367
+Integrator =  deterministic_adams_bashforth , step =  954 , invalid configurations 0 , wallclock time =  579.2754001617432
+Integrator =  deterministic_adams_bashforth , step =  955 , invalid configurations 0 , wallclock time =  580.1160123348236
+Integrator =  deterministic_adams_bashforth , step =  956 , invalid configurations 0 , wallclock time =  580.8804020881653
+Integrator =  deterministic_adams_bashforth , step =  957 , invalid configurations 0 , wallclock time =  581.5286729335785
+Integrator =  deterministic_adams_bashforth , step =  958 , invalid configurations 0 , wallclock time =  582.1798667907715
+Integrator =  deterministic_adams_bashforth , step =  959 , invalid configurations 0 , wallclock time =  582.8094475269318
+Integrator =  deterministic_adams_bashforth , step =  960 , invalid configurations 0 , wallclock time =  583.4516520500183
+Integrator =  deterministic_adams_bashforth , step =  961 , invalid configurations 0 , wallclock time =  584.0844559669495
+Integrator =  deterministic_adams_bashforth , step =  962 , invalid configurations 0 , wallclock time =  584.7212505340576
+Integrator =  deterministic_adams_bashforth , step =  963 , invalid configurations 0 , wallclock time =  585.3706483840942
+Integrator =  deterministic_adams_bashforth , step =  964 , invalid configurations 0 , wallclock time =  586.0499565601349
+Integrator =  deterministic_adams_bashforth , step =  965 , invalid configurations 0 , wallclock time =  586.7347180843353
+Integrator =  deterministic_adams_bashforth , step =  966 , invalid configurations 0 , wallclock time =  587.3419296741486
+Integrator =  deterministic_adams_bashforth , step =  967 , invalid configurations 0 , wallclock time =  587.9702372550964
+Integrator =  deterministic_adams_bashforth , step =  968 , invalid configurations 0 , wallclock time =  588.6682567596436
+Integrator =  deterministic_adams_bashforth , step =  969 , invalid configurations 0 , wallclock time =  589.3849568367004
+Integrator =  deterministic_adams_bashforth , step =  970 , invalid configurations 0 , wallclock time =  589.9894528388977
+Integrator =  deterministic_adams_bashforth , step =  971 , invalid configurations 0 , wallclock time =  590.6277694702148
+Integrator =  deterministic_adams_bashforth , step =  972 , invalid configurations 0 , wallclock time =  591.2877054214478
+Integrator =  deterministic_adams_bashforth , step =  973 , invalid configurations 0 , wallclock time =  591.8630414009094
+Integrator =  deterministic_adams_bashforth , step =  974 , invalid configurations 0 , wallclock time =  592.4721999168396
+Integrator =  deterministic_adams_bashforth , step =  975 , invalid configurations 0 , wallclock time =  593.1937954425812
+Integrator =  deterministic_adams_bashforth , step =  976 , invalid configurations 0 , wallclock time =  593.9577548503876
+Integrator =  deterministic_adams_bashforth , step =  977 , invalid configurations 0 , wallclock time =  594.5946288108826
+Integrator =  deterministic_adams_bashforth , step =  978 , invalid configurations 0 , wallclock time =  595.1965572834015
+Integrator =  deterministic_adams_bashforth , step =  979 , invalid configurations 0 , wallclock time =  595.823210477829
+Integrator =  deterministic_adams_bashforth , step =  980 , invalid configurations 0 , wallclock time =  596.4972748756409
+Integrator =  deterministic_adams_bashforth , step =  981 , invalid configurations 0 , wallclock time =  597.2011303901672
+Integrator =  deterministic_adams_bashforth , step =  982 , invalid configurations 0 , wallclock time =  597.8349919319153
+Integrator =  deterministic_adams_bashforth , step =  983 , invalid configurations 0 , wallclock time =  598.4589810371399
+Integrator =  deterministic_adams_bashforth , step =  984 , invalid configurations 0 , wallclock time =  599.0919070243835
+Integrator =  deterministic_adams_bashforth , step =  985 , invalid configurations 0 , wallclock time =  599.8153104782104
+Integrator =  deterministic_adams_bashforth , step =  986 , invalid configurations 0 , wallclock time =  600.4675109386444
+Integrator =  deterministic_adams_bashforth , step =  987 , invalid configurations 0 , wallclock time =  601.1505806446075
+Integrator =  deterministic_adams_bashforth , step =  988 , invalid configurations 0 , wallclock time =  601.9721729755402
+Integrator =  deterministic_adams_bashforth , step =  989 , invalid configurations 0 , wallclock time =  602.6171681880951
+Integrator =  deterministic_adams_bashforth , step =  990 , invalid configurations 0 , wallclock time =  603.3616688251495
+Integrator =  deterministic_adams_bashforth , step =  991 , invalid configurations 0 , wallclock time =  604.2053844928741
+Integrator =  deterministic_adams_bashforth , step =  992 , invalid configurations 0 , wallclock time =  605.0849771499634
+Integrator =  deterministic_adams_bashforth , step =  993 , invalid configurations 0 , wallclock time =  605.9990553855896
+Integrator =  deterministic_adams_bashforth , step =  994 , invalid configurations 0 , wallclock time =  606.7987544536591
+Integrator =  deterministic_adams_bashforth , step =  995 , invalid configurations 0 , wallclock time =  607.6444609165192
+Integrator =  deterministic_adams_bashforth , step =  996 , invalid configurations 0 , wallclock time =  608.4961411952972
+Integrator =  deterministic_adams_bashforth , step =  997 , invalid configurations 0 , wallclock time =  609.3687734603882
+Integrator =  deterministic_adams_bashforth , step =  998 , invalid configurations 0 , wallclock time =  610.1564073562622
+Integrator =  deterministic_adams_bashforth , step =  999 , invalid configurations 0 , wallclock time =  611.0410542488098
+Integrator =  deterministic_adams_bashforth , step =  1000 , invalid configurations 0 , wallclock time =  611.8210570812225
+
+
+
+# End
